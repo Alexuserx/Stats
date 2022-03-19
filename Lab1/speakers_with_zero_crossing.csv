@@ -1,0 +1,1046 @@
+,age,age_onset,birthplace,filename,native_language,sex,speakerid,country,file_missing?,zero_crossing
+50,20.0,5.0,"addis ababa, ethiopia",amharic1,amharic,female,6,ethiopia,False,212.07373046875
+51,29.0,19.0,"gonder, ethiopia",amharic10,amharic,female,998,ethiopia,False,177.0703125
+52,24.0,17.0,"addis ababa, ethiopia",amharic11,amharic,female,1129,ethiopia,False,202.8017578125
+53,26.0,15.0,"addis ababa, ethiopia",amharic12,amharic,female,1130,ethiopia,False,150.427734375
+54,28.0,6.0,"addis ababa, ethiopia",amharic13,amharic,female,1131,ethiopia,False,255.82080078125
+55,31.0,12.0,"addis ababa, ethiopia",amharic14,amharic,male,1515,ethiopia,False,145.3525390625
+56,23.0,6.0,"addis ababa, ethiopia",amharic15,amharic,male,1516,ethiopia,False,170.0732421875
+57,36.0,11.0,"werder, ethiopia",amharic16,amharic,male,1854,ethiopia,False,176.36376953125
+58,21.0,9.0,"addis ababa, ethiopia",amharic17,amharic,male,1906,ethiopia,False,185.75537109375
+59,20.0,2.0,"addis ababa, ethiopia",amharic18,amharic,female,2017,ethiopia,False,178.931640625
+60,19.0,10.0,"tefki, ethiopia",amharic19,amharic,female,2132,ethiopia,False,219.45849609375
+61,23.0,7.0,"arba minch, ethiopia",amharic2,amharic,male,7,ethiopia,False,296.6044921875
+62,52.0,24.0,"addis ababa, ethiopia",amharic20,amharic,female,2135,ethiopia,False,354.26220703125
+63,27.0,8.0,"addis ababa, ethiopia",amharic3,amharic,male,8,ethiopia,False,104.3974609375
+64,20.0,7.0,"addis ababa, ethiopia",amharic4,amharic,male,9,ethiopia,False,588.7412109375
+65,31.0,7.0,"addis ababa, ethiopia",amharic5,amharic,male,10,ethiopia,False,327.05029296875
+66,31.0,4.0,"addis ababa, ethiopia",amharic6,amharic,female,985,ethiopia,False,200.91796875
+67,38.0,13.0,"addis ababa, ethiopia",amharic7,amharic,male,989,ethiopia,False,182.1513671875
+68,30.0,12.0,"addis ababa, ethiopia",amharic8,amharic,female,990,ethiopia,False,550.40673828125
+69,40.0,12.0,"addis ababa, ethiopia",amharic9,amharic,male,991,ethiopia,False,163.11865234375
+70,38.0,12.0,"riyadh, saudi arabia",arabic1,arabic,female,11,saudi arabia,False,213.41357421875
+74,22.0,3.0,"jiddah, saudi arabia",arabic102,arabic,male,2161,saudi arabia,False,136.546875
+96,19.0,8.0,"riyadh, saudi arabia",arabic30,arabic,female,1133,saudi arabia,False,138.16162109375
+101,56.0,16.0,"jiddah, saudi arabia",arabic35,arabic,male,1391,saudi arabia,False,149.9384765625
+102,36.0,6.0,"jiddah, saudi arabia",arabic36,arabic,male,1392,saudi arabia,False,205.8544921875
+103,18.0,16.0,"jiddah, saudi arabia",arabic37,arabic,male,1393,saudi arabia,False,111.25634765625
+104,19.0,9.0,"shady grove, maryland, usa",arabic38,arabic,female,1394,usa,False,188.69775390625
+105,22.0,5.0,"jiddah, saudi arabia",arabic39,arabic,male,1405,saudi arabia,False,151.66259765625
+107,19.0,13.0,"jiddah, saudi arabia",arabic40,arabic,male,1420,saudi arabia,False,176.8837890625
+108,25.0,7.0,"riyadh, saudi arabia",arabic41,arabic,male,1421,saudi arabia,False,239.07373046875
+109,21.0,13.0,"jiddah, saudi arabia",arabic42,arabic,male,1422,saudi arabia,False,298.3017578125
+111,29.0,7.0,"jiddah, saudi arabia",arabic44,arabic,female,1455,saudi arabia,False,148.81494140625
+112,32.0,12.0,"fort collins, colorado, usa",arabic45,arabic,female,1456,usa,False,177.2861328125
+113,28.0,13.0,"jiddah, saudi arabia",arabic46,arabic,male,1457,saudi arabia,False,135.849609375
+114,39.0,16.0,"jiddah, saudi arabia",arabic47,arabic,male,1458,saudi arabia,False,209.38427734375
+115,29.0,12.0,"mecca, saudi arabia",arabic48,arabic,male,1459,saudi arabia,False,127.701171875
+116,26.0,8.0,"medina, saudi arabia",arabic49,arabic,male,1460,saudi arabia,False,153.34326171875
+118,36.0,22.0,"jiddah, saudi arabia",arabic50,arabic,male,1461,saudi arabia,False,165.9755859375
+119,23.0,12.0,"jiddah, saudi arabia",arabic51,arabic,male,1486,saudi arabia,False,144.9033203125
+120,21.0,9.0,"jiddah, saudi arabia",arabic52,arabic,female,1487,saudi arabia,False,176.38623046875
+131,19.0,18.0,"ad dammam, saudi arabia",arabic62,arabic,male,1768,saudi arabia,False,559.7177734375
+133,23.0,6.0,"riyadh, saudi arabia",arabic64,arabic,male,1777,saudi arabia,False,142.60498046875
+135,50.0,14.0,"medina, saudi arabia",arabic66,arabic,male,1784,saudi arabia,False,471.34619140625
+137,20.0,6.0,"london, uk",arabic68,arabic,male,1805,uk,False,269.39990234375
+145,26.0,2.0,"riyadh, saudi arabia",arabic75,arabic,female,1885,saudi arabia,False,171.5830078125
+146,25.0,4.0,"jiddah, saudi arabia",arabic76,arabic,male,1892,saudi arabia,False,222.6337890625
+147,18.0,4.0,"ad dammam, saudi arabia",arabic77,arabic,female,1894,saudi arabia,False,240.5341796875
+148,19.0,3.0,"washington, district of columbia, usa",arabic78,arabic,female,1897,usa,False,196.3857421875
+149,24.0,13.0,"medina, saudi arabia",arabic79,arabic,female,1899,saudi arabia,False,233.4091796875
+151,25.0,11.0,"najran, saudi arabia",arabic80,arabic,male,1901,saudi arabia,False,194.7890625
+152,22.0,17.0,"riyadh, saudi arabia",arabic81,arabic,male,1914,saudi arabia,False,151.5576171875
+154,22.0,21.0,"riyadh, saudi arabia",arabic83,arabic,male,1920,saudi arabia,False,295.86279296875
+155,26.0,12.0,"medina, saudi arabia",arabic84,arabic,female,1927,saudi arabia,False,287.67529296875
+156,24.0,14.0,"ad dammam, saudi arabia",arabic85,arabic,female,1963,saudi arabia,False,230.77490234375
+163,57.0,12.0,"riyadh, saudi arabia",arabic91,arabic,female,2086,saudi arabia,False,515.7197265625
+168,21.0,7.0,"riyadh, saudi arabia",arabic96,arabic,male,2153,saudi arabia,False,208.220703125
+171,25.0,16.0,"ad dammam, saudi arabia",arabic99,arabic,female,2157,saudi arabia,False,287.92529296875
+177,23.0,11.0,"armavir, russia",armenian6,armenian,male,1228,russia,False,71.14501953125
+187,43.0,40.0,"jianchuan, yunnan, china",bai1,bai,female,28,china,False,1044.35888671875
+198,54.0,10.0,"erding, bavaria, germany",bavarian1,bavarian,female,687,germany,False,199.2529296875
+199,52.0,10.0,"berchtesgaden, germany",bavarian2,bavarian,female,1045,germany,False,182.3388671875
+205,34.0,3.5,"durgapur, west bengal, india",bengali11,bengali,male,1018,india,False,127.6787109375
+208,26.0,4.0,"kolkata, india",bengali14,bengali,male,1973,india,False,100.76806640625
+216,29.0,4.0,"jamshedpur, jharkhand, india",bengali6,bengali,male,624,india,False,133.07666015625
+219,61.0,12.0,"kolkata, india",bengali9,bengali,female,987,india,False,146.72265625
+249,22.0,12.0,"hong kong, china",cantonese1,cantonese,female,45,china,False,217.7763671875
+250,25.0,3.0,"xiamen, fujian, china",cantonese10,cantonese,female,505,china,False,171.41943359375
+251,22.0,3.0,"hong kong, china",cantonese11,cantonese,female,544,china,False,203.37353515625
+252,20.0,4.0,"macau, china",cantonese12,cantonese,female,602,china,False,227.07470703125
+253,21.0,3.0,"hong kong, china",cantonese13,cantonese,female,730,china,False,279.6279296875
+254,19.0,3.0,"hong kong, china",cantonese14,cantonese,female,742,china,False,131.93408203125
+255,31.0,12.0,"qingyuan, guangdong, china",cantonese15,cantonese,female,862,china,False,226.4384765625
+256,29.0,3.0,"hong kong, china",cantonese16,cantonese,female,874,china,False,110.72119140625
+257,26.0,3.0,"hong kong, china",cantonese17,cantonese,female,878,china,False,111.255859375
+258,19.0,3.0,"hong kong, china",cantonese18,cantonese,male,885,china,False,79.88623046875
+259,28.0,7.0,"hong kong, china",cantonese19,cantonese,female,1247,china,False,270.25341796875
+260,20.0,13.0,"hong kong, china",cantonese2,cantonese,male,46,china,False,362.419921875
+261,18.0,3.0,"hong kong, china",cantonese20,cantonese,male,1480,china,False,129.4375
+262,18.0,4.0,"hong kong, china",cantonese21,cantonese,female,1558,china,False,227.56005859375
+263,30.0,3.0,"hong kong, china",cantonese22,cantonese,female,1974,china,False,212.48779296875
+264,33.0,6.0,"hong kong, china",cantonese23,cantonese,male,1975,china,False,195.32421875
+265,22.0,6.0,"hong kong, china",cantonese3,cantonese,male,47,china,False,230.92578125
+266,29.0,13.0,"fuzhou, fujian, china",cantonese4,cantonese,female,48,china,False,425.74658203125
+267,18.0,14.0,"hong kong, china",cantonese5,cantonese,male,49,china,False,185.0126953125
+268,25.0,5.0,"hong kong, china",cantonese6,cantonese,male,462,china,False,258.2158203125
+269,31.0,4.0,"hong kong, china",cantonese7,cantonese,male,494,china,False,220.701171875
+270,23.0,2.0,"hong kong, china",cantonese8,cantonese,female,498,china,False,132.9482421875
+271,22.0,7.0,"hong kong, china",cantonese9,cantonese,male,502,china,False,241.54541015625
+315,39.0,12.0,"essen, belgium",dutch10,dutch,male,913,belgium,False,186.1240234375
+316,41.0,14.0,"brugge, belgium",dutch11,dutch,male,929,belgium,False,125.77783203125
+321,23.0,12.0,"antwerp, belgium",dutch16,dutch,female,1260,belgium,False,176.591796875
+322,21.0,12.0,"wilrijk, belgium",dutch17,dutch,female,1261,belgium,False,260.03466796875
+323,23.0,14.0,"antwerp, belgium",dutch18,dutch,male,1262,belgium,False,215.2236328125
+324,22.0,11.0,"heist-op-den-berg, belgium",dutch19,dutch,female,1263,belgium,False,231.14111328125
+326,21.0,13.0,"vlaams-brabant, belgium",dutch20,dutch,female,1264,belgium,False,223.642578125
+327,21.0,13.0,"diest, belgium",dutch21,dutch,female,1265,belgium,False,269.15673828125
+328,23.0,13.0,"essen, belgium",dutch22,dutch,female,1266,belgium,False,184.9658203125
+329,23.0,13.0,"antwerp, belgium",dutch23,dutch,male,1268,belgium,False,192.40087890625
+330,23.0,14.0,"seoul, south korea",dutch24,dutch,female,1269,south korea,False,233.9619140625
+331,23.0,13.0,"wilrijk, belgium",dutch25,dutch,female,1270,belgium,False,193.58349609375
+332,23.0,13.0,"turnhout, belgium",dutch26,dutch,female,1271,belgium,False,180.97705078125
+333,21.0,13.0,"antwerp, belgium",dutch27,dutch,female,1274,belgium,False,241.216796875
+334,22.0,8.0,"antwerp, belgium",dutch28,dutch,male,1275,belgium,False,153.81201171875
+337,21.0,14.0,"sint-niklaas, belgium",dutch30,dutch,female,1462,belgium,False,332.55322265625
+338,23.0,13.0,"antwerp, belgium",dutch31,dutch,female,1463,belgium,False,198.6904296875
+339,21.0,14.0,"brasschaat, belgium",dutch32,dutch,male,1464,belgium,False,789.0810546875
+340,22.0,9.0,"mechelen, belgium",dutch33,dutch,female,1466,belgium,False,245.7314453125
+341,22.0,14.0,"bornem, belgium",dutch34,dutch,female,1468,belgium,False,211.84130859375
+342,21.0,13.0,"mortsel, belgium",dutch35,dutch,female,1473,belgium,False,113.6689453125
+343,21.0,12.0,"turnhout, belgium",dutch36,dutch,female,1476,belgium,False,143.66552734375
+344,21.0,11.0,"antwerp, belgium",dutch37,dutch,female,1479,belgium,False,220.90673828125
+345,21.0,12.0,"beveren, belgium",dutch38,dutch,female,1481,belgium,False,121.94580078125
+347,18.0,10.0,"bilzen, flanders, belgium",dutch4,dutch,male,743,belgium,False,351.88818359375
+352,21.0,12.0,"antwerp, belgium",dutch44,dutch,female,1740,belgium,False,318.56591796875
+353,22.0,2.0,"sint niklaas, belgium",dutch45,dutch,male,1742,belgium,False,109.47607421875
+354,22.0,12.0,"hulshout, belgium",dutch46,dutch,female,1743,belgium,False,237.287109375
+357,46.0,10.0,"brussels, belgium",dutch6,dutch,female,847,belgium,False,184.76416015625
+363,42.0,0.0,"pittsburgh, pennsylvania, usa",english1,english,male,61,usa,False,158.58203125
+364,35.0,0.0,"davenport, iowa, usa",english10,english,female,62,usa,False,112.029296875
+365,23.0,0.0,"miami, florida, usa",english100,english,female,63,usa,False,149.716796875
+366,18.0,0.0,"toronto, ontario, canada",english101,english,female,64,canada,False,167.3798828125
+367,22.0,0.0,"torrington, connecticut, usa",english102,english,male,65,usa,False,180.50048828125
+368,21.0,0.0,"staten island, new york, usa",english103,english,male,66,usa,False,73.904296875
+369,18.0,0.0,"youngstown, ohio, usa",english104,english,female,67,usa,False,107.8203125
+370,57.0,0.0,"windsor, ontario, canada",english105,english,male,407,canada,False,133.85107421875
+371,39.0,0.0,"los angeles, california, usa",english106,english,female,408,usa,False,159.73828125
+372,19.0,0.0,"chicago, illinois, usa",english107,english,male,416,usa,False,184.61279296875
+373,21.0,0.0,"strabane, northern ireland, uk",english108,english,male,419,uk,False,117.72509765625
+374,26.0,0.0,"concord, new hampshire, usa",english109,english,female,420,usa,False,141.11767578125
+375,35.0,0.0,"staffordshire, uk",english11,english,female,68,uk,False,210.4033203125
+376,21.0,0.0,"great yarmouth, norfolk, uk",english110,english,male,421,uk,False,195.4794921875
+377,21.0,0.0,"bombay, india",english111,english,male,426,india,False,136.2333984375
+379,31.0,0.0,"wrexham, wales, uk",english113,english,male,439,uk,False,225.17724609375
+380,38.0,0.0,"birmingham 2, alabama, usa",english114,english,female,442,usa,False,152.58740234375
+381,31.0,0.0,"st. albans, hertfordshire, uk",english115,english,male,443,uk,False,164.130859375
+382,56.0,0.0,"atlanta, georgia, usa",english116,english,male,444,usa,False,181.93896484375
+383,60.0,0.0,"elmore, alabama, usa",english117,english,female,445,usa,False,142.17626953125
+384,19.0,0.0,"akron, ohio, usa",english118,english,male,446,usa,False,170.73876953125
+385,32.0,0.0,"saskatoon, saskatchewan, canada",english119,english,female,455,canada,False,125.66845703125
+386,71.0,0.0,"leicester, uk",english12,english,female,69,uk,False,259.42578125
+387,65.0,0.0,"saskatoon, saskatchewan, canada",english120,english,male,456,canada,False,112.12255859375
+388,21.0,0.0,"waconia, minnesota, usa",english121,english,male,465,usa,False,123.80517578125
+390,28.0,0.0,"riverside, california, usa",english123,english,female,469,usa,False,101.87060546875
+391,38.0,0.0,"brooklyn, new york, usa",english124,english,male,480,usa,False,119.52197265625
+392,28.0,0.0,"st. george, queensland, australia",english125,english,male,485,australia,False,50.80078125
+393,34.0,0.0,"cincinnati, ohio, usa",english126,english,female,487,usa,False,126.71533203125
+394,39.0,0.0,"new britain, connecticut, usa",english127,english,male,489,usa,False,114.2626953125
+395,20.0,0.0,"miami, florida, usa",english128,english,female,490,usa,False,151.12890625
+396,25.0,0.0,"blackpool, lancashire, uk",english129,english,male,492,uk,False,149.009765625
+397,69.0,0.0,"henley on thames, oxfordshire, uk",english13,english,male,70,uk,False,223.71240234375
+399,23.0,0.0,"west palm beach, florida, usa",english131,english,male,497,usa,False,168.51318359375
+400,18.0,0.0,"toronto, ontario, canada",english132,english,female,503,canada,False,152.32275390625
+401,36.0,0.0,"norwich, new york, usa",english133,english,female,504,usa,False,113.74853515625
+402,22.0,0.0,"belfast, northern ireland, uk",english134,english,female,506,uk,False,150.80810546875
+403,22.0,0.0,"orange beach, alabama, usa",english135,english,male,507,usa,False,167.376953125
+404,25.0,0.0,"calgary, alberta, canada",english136,english,male,508,canada,False,52.720703125
+405,26.0,0.0,"charleston, west virginia, usa",english137,english,male,509,usa,False,137.671875
+406,25.0,0.0,"palmer, alaska, usa",english138,english,female,510,usa,False,150.20458984375
+407,20.0,0.0,"providence, rhode island, usa",english139,english,male,511,usa,False,118.8564453125
+408,40.0,0.0,"belfast, northern ireland, uk",english14,english,male,71,uk,False,171.2822265625
+410,19.0,0.0,"york, uk",english141,english,male,516,uk,False,134.353515625
+411,19.0,0.0,"avon, new york, usa",english142,english,male,517,usa,False,138.8203125
+412,42.0,0.0,"minneapolis, minnesota, usa",english143,english,male,518,usa,False,232.78759765625
+413,24.0,0.0,"barneys river, nova scotia, canada",english144,english,male,519,canada,False,155.4921875
+414,18.0,0.0,"bury st. edmunds, uk",english145,english,male,521,uk,False,62.376953125
+415,22.0,0.0,"blytheville, arkansas, usa",english146,english,male,522,usa,False,151.03076171875
+416,40.0,0.0,"merced, california, usa",english147,english,female,523,usa,False,109.205078125
+417,31.0,0.0,"sydney, australia",english148,english,male,525,australia,False,136.86962890625
+418,18.0,0.0,"lawrenceville, georgia, usa",english149,english,male,526,usa,False,118.7509765625
+419,7.0,0.0,"norton, virginia, usa",english15,english,female,72,usa,False,177.521484375
+420,31.0,0.0,"brownsville, kentucky, usa",english150,english,male,527,usa,False,125.56103515625
+421,18.0,0.0,"baltimore, maryland, usa",english151,english,male,528,usa,False,150.05712890625
+422,18.0,0.0,"adelaide, australia",english152,english,male,529,australia,False,274.35009765625
+423,35.0,0.0,"brisbane, australia",english153,english,male,533,australia,False,112.0048828125
+424,28.0,0.0,"glace bay, nova scotia, canada",english154,english,male,534,canada,False,149.47021484375
+425,35.0,0.0,"oakland, california, usa",english155,english,male,535,usa,False,162.4296875
+427,35.0,0.0,"fort worth, texas, usa",english157,english,male,538,usa,False,108.81884765625
+428,18.0,0.0,"washington, district of columbia, usa",english158,english,female,540,usa,False,138.0283203125
+429,18.0,0.0,"ottawa, ontario, canada",english159,english,male,541,canada,False,206.88623046875
+430,21.0,0.0,"wise, virginia, usa",english16,english,male,73,usa,False,154.73193359375
+431,21.0,0.0,"redwood falls, minnesota, usa",english160,english,female,542,usa,False,174.642578125
+432,75.0,0.0,"wakefield, ohio, usa",english161,english,female,546,usa,False,197.11181640625
+433,41.0,0.0,"delaware, ohio, usa",english162,english,female,548,usa,False,154.3310546875
+434,41.0,0.0,"fairview park, ohio, usa",english163,english,male,547,usa,False,169.021484375
+435,38.0,0.0,"leeds, uk",english164,english,male,549,uk,False,149.263671875
+436,43.0,0.0,"detroit, michigan, usa",english165,english,female,550,usa,False,182.787109375
+437,18.0,0.0,"glenside, pennsylvania, usa",english166,english,male,551,usa,False,113.77197265625
+438,43.0,0.0,"lakeview, michigan, usa",english167,english,male,552,usa,False,180.3603515625
+439,40.0,0.0,"oceanside, california, usa",english168,english,male,554,usa,False,140.095703125
+440,18.0,0.0,"cleveland, mississippi, usa",english169,english,male,555,usa,False,148.5771484375
+441,79.0,0.0,"darwin va, virginia, usa",english17,english,male,74,usa,False,89.060546875
+442,50.0,0.0,"belmont, mississippi, usa",english170,english,female,556,usa,False,92.03564453125
+443,21.0,0.0,"st. louis, missouri, usa",english171,english,male,563,usa,False,152.376953125
+445,19.0,0.0,"libertyville, illinois, usa",english173,english,male,567,usa,False,196.48388671875
+447,24.0,0.0,"seattle, washington, usa",english175,english,male,572,usa,False,115.4091796875
+448,18.0,0.0,"elizabeth city, north carolina, usa",english176,english,female,573,usa,False,248.5673828125
+449,23.0,0.0,"new orleans, louisiana, usa",english177,english,female,574,usa,False,76.99658203125
+450,30.0,0.0,"wilkes-barre, pennsylvania, usa",english178,english,male,583,usa,False,127.77880859375
+451,57.0,0.0,"huron, south dakota, usa",english179,english,male,584,usa,False,157.8154296875
+452,39.0,0.0,"dickenson county, virginia, usa",english18,english,female,75,usa,False,134.81494140625
+453,20.0,0.0,"newport, rhode island, usa",english180,english,male,585,usa,False,113.39404296875
+454,68.0,0.0,"new eagle, pennsylvania, usa",english181,english,male,586,usa,False,88.68212890625
+455,50.0,0.0,"troy, new york, usa",english182,english,male,590,usa,False,106.00146484375
+457,18.0,0.0,"hillsboro, oregon, usa",english184,english,female,597,usa,False,92.69775390625
+458,38.0,0.0,"oxford, uk",english185,english,male,604,uk,False,237.57275390625
+459,39.0,0.0,"gadsden, alabama, usa",english186,english,female,605,usa,False,154.35107421875
+460,42.0,0.0,"algona, iowa, usa",english187,english,female,606,usa,False,173.4970703125
+461,35.0,0.0,"edinburgh, scotland, uk",english188,english,male,611,uk,False,130.1015625
+462,19.0,0.0,"grand forks, north dakota, usa",english189,english,male,617,usa,False,152.7802734375
+463,53.0,0.0,"louisville, kentucky, usa",english19,english,male,76,usa,False,133.38916015625
+464,27.0,0.0,"oak park, illinois, usa",english190,english,male,618,usa,False,123.47265625
+465,19.0,0.0,"las cruces, new mexico, usa",english191,english,male,631,usa,False,172.765625
+466,27.0,0.0,"east lansing, michigan, usa",english192,english,female,636,usa,False,137.64306640625
+467,32.0,0.0,"honolulu, hawaii, usa",english193,english,male,637,usa,False,107.6845703125
+468,19.0,0.0,"manchester, england, uk",english194,english,male,638,uk,False,149.927734375
+469,21.0,0.0,"delavan, wisconsin, usa",english195,english,female,639,usa,False,219.24560546875
+471,22.0,0.0,"iowa city, iowa, usa",english197,english,male,662,usa,False,157.95849609375
+472,56.0,0.0,"washington, district of columbia, usa",english198,english,male,663,usa,False,134.62255859375
+473,25.0,0.0,"bay shore, new york, usa",english199,english,male,664,usa,False,221.8486328125
+474,30.0,0.0,"birmingham, uk",english2,english,female,77,uk,False,119.23974609375
+475,27.0,0.0,"mt. holly, north carolina, usa",english20,english,female,78,usa,False,167.88623046875
+476,22.0,0.0,"berkeley, california, usa",english200,english,female,667,usa,False,114.9541015625
+477,26.0,0.0,"warren, michigan, usa",english201,english,female,668,usa,False,87.89404296875
+478,19.0,0.0,"crisfield, maryland, usa",english202,english,male,673,usa,False,105.5126953125
+479,63.0,0.0,"boston, massachusetts, usa",english203,english,female,674,usa,False,168.57177734375
+480,53.0,0.0,"chicago, illinois, usa",english204,english,male,678,usa,False,64.2080078125
+481,45.0,0.0,"blue earth, minnesota, usa",english205,english,female,679,usa,False,157.12158203125
+482,35.0,0.0,"hucknall, nottinghamshire, england, uk",english206,english,female,680,uk,False,254.66162109375
+483,23.0,0.0,"wilkes-barre, pennsylvania, usa",english207,english,female,684,usa,False,249.83349609375
+484,46.0,0.0,"washington, dc, usa",english208,english,male,695,usa,False,123.64990234375
+486,37.0,0.0,"boston, massachusetts, usa",english21,english,female,79,usa,False,110.4052734375
+487,23.0,0.0,"trenton, nova scotia, canada",english210,english,female,705,canada,False,100.33837890625
+488,30.0,0.0,"worcester, massachusetts, usa",english211,english,male,720,usa,False,146.9609375
+489,24.0,0.0,"spartanburg, south carolina, usa",english212,english,male,729,usa,False,97.28759765625
+490,38.0,0.0,"dodge city, kansas, usa",english213,english,male,734,usa,False,125.76123046875
+491,26.0,0.0,"myrtle beach, south carolina, usa",english214,english,male,737,usa,False,97.806640625
+492,20.0,0.0,"lemington spa, warwickshire, uk",english215,english,male,738,uk,False,146.0205078125
+493,48.0,0.0,"chicago, illinois, usa",english216,english,female,739,usa,False,87.88330078125
+494,66.0,0.0,"harrow, middlesex, uk",english217,english,male,740,uk,False,134.01416015625
+495,27.0,0.0,"abingdon, virginia, usa",english218,english,female,747,usa,False,88.41357421875
+496,38.0,0.0,"oakland, california, usa",english219,english,female,748,usa,False,178.6591796875
+498,18.0,0.0,"anaheim, california, usa",english220,english,female,749,usa,False,167.5107421875
+499,45.0,0.0,"london, uk",english221,english,male,754,uk,False,110.27880859375
+500,18.0,0.0,"auburn, indiana, usa",english222,english,female,764,usa,False,112.080078125
+501,18.0,0.0,"erie, pennsylvania, usa",english223,english,male,767,usa,False,184.73388671875
+503,50.0,0.0,"dundee, scotland, uk",english225,english,male,771,uk,False,175.1396484375
+504,38.0,0.0,"walton-on-thames, surrey, uk",english226,english,male,772,uk,False,124.94873046875
+505,42.0,0.0,"camberley, surrey, uk",english227,english,female,773,uk,False,183.51806640625
+506,59.0,0.0,"glasgow, scotland, uk",english228,english,female,774,uk,False,127.4111328125
+507,25.0,0.0,"burlington, vermont, usa",english229,english,male,775,usa,False,120.5771484375
+508,43.0,0.0,"englewood, tennessee, usa",english23,english,male,81,usa,False,161.3427734375
+509,35.0,0.0,"launceston, tasmania, australia",english230,english,male,776,australia,False,203.82275390625
+510,22.0,0.0,"tampa, florida, usa",english231,english,male,791,usa,False,109.9150390625
+511,32.0,0.0,"metairie, louisiana, usa",english232,english,female,798,usa,False,138.84130859375
+512,26.0,0.0,"edmonton, alberta, canada",english233,english,female,793,canada,False,71.5390625
+513,49.0,0.0,"bloomington, indiana, usa",english234,english,male,794,usa,False,195.48046875
+514,52.0,0.0,"richmond, virginia, usa",english235,english,female,795,usa,False,270.43408203125
+515,44.0,0.0,"st. charles, illinois, usa",english236,english,male,799,usa,False,114.15234375
+516,22.0,0.0,"jeffersonville, ohio, usa",english237,english,female,801,usa,False,142.10986328125
+517,21.0,0.0,"vancouver, british  columbia, canada",english238,english,female,802,canada,False,40.7099609375
+519,37.0,0.0,"glasgow, scotland, uk",english24,english,male,82,uk,False,178.140625
+520,26.0,0.0,"guelph, ontario, canada",english240,english,male,815,canada,False,93.96337890625
+522,77.0,0.0,"laurel, mississippi, usa",english242,english,female,818,usa,False,186.38037109375
+523,27.0,0.0,"fredericton, new brunswick, canada",english243,english,male,820,canada,False,193.64794921875
+524,23.0,0.0,"san francisco, california, usa",english244,english,male,821,usa,False,97.65625
+525,25.0,0.0,"pittsburgh, pennsylvania, usa",english245,english,male,824,usa,False,70.43505859375
+526,32.0,0.0,"los angeles, california, usa",english246,english,male,825,usa,False,91.75927734375
+527,33.0,0.0,"prince rupert, british columbia, canada",english247,english,male,835,canada,False,171.9052734375
+528,18.0,0.0,"philadelphia, pennsylvania, usa",english248,english,female,840,usa,False,251.1376953125
+529,29.0,0.0,"boston, massachusetts, usa",english249,english,female,850,usa,False,116.64990234375
+530,57.0,0.0,"atlanta, georgia, usa",english25,english,male,83,usa,False,209.9375
+531,19.0,0.0,"chester, england, uk",english250,english,male,852,uk,False,243.31103515625
+532,21.0,0.0,"mt. kisco, new york, usa",english251,english,male,855,usa,False,114.3994140625
+533,25.0,0.0,"san jose ca, california, usa",english252,english,female,856,usa,False,105.86083984375
+535,39.0,0.0,"eugene, oregon, usa",english254,english,male,858,usa,False,123.990234375
+537,23.0,0.0,"laurinburg, north carolina, usa",english256,english,male,861,usa,False,136.6044921875
+538,24.0,0.0,"san diego, california, usa",english257,english,male,863,usa,False,207.26318359375
+541,71.0,0.0,"smith island, maryland, usa",english26,english,male,84,usa,False,218.07470703125
+542,18.0,0.0,"phoenix, arizona, usa",english260,english,female,871,usa,False,98.515625
+543,59.0,0.0,"forestville, maryland, usa",english261,english,female,875,usa,False,135.556640625
+544,60.0,0.0,"naylor, maryland, usa",english262,english,male,876,usa,False,118.42333984375
+545,21.0,0.0,"oak forest, illinois, usa",english263,english,male,884,usa,False,106.6416015625
+546,21.0,0.0,"freemont, california, usa",english264,english,male,889,usa,False,234.57568359375
+547,31.0,0.0,"vancouver wa, washington, usa",english265,english,male,890,usa,False,191.25341796875
+548,18.0,0.0,"san diego, california, usa",english266,english,male,899,usa,False,225.287109375
+549,66.0,0.0,"leeds, uk",english267,english,male,900,uk,False,115.3935546875
+550,67.0,0.0,"leeds, uk",english268,english,female,901,uk,False,102.28515625
+551,22.0,0.0,"adelaide, australia",english269,english,female,902,australia,False,128.22265625
+552,37.0,0.0,"smith island, maryland, usa",english27,english,female,85,usa,False,208.40234375
+555,20.0,0.0,"dallas, texas, usa",english272,english,male,905,usa,False,144.02783203125
+556,46.0,0.0,"blue bell, pennsylvania, usa",english273,english,male,907,usa,False,164.8037109375
+557,25.0,0.0,"sydney, australia",english274,english,female,909,australia,False,220.1513671875
+558,20.0,0.0,"clifton, new jersey, usa",english275,english,female,912,usa,False,130.82373046875
+559,50.0,0.0,"chattanooga, tennessee, usa",english276,english,female,918,usa,False,129.97119140625
+560,48.0,0.0,"hudson, new york, usa",english277,english,female,919,usa,False,182.44384765625
+561,18.0,0.0,"augusta, georgia, usa",english278,english,female,921,usa,False,55.966796875
+563,54.0,0.0,"toronto, ontario, canada",english28,english,male,86,canada,False,150.97509765625
+565,23.0,0.0,"ramsey mn, minnesota, usa",english281,english,male,937,usa,False,233.22607421875
+566,20.0,0.0,"tampa, florida, usa",english282,english,male,939,usa,False,175.48779296875
+567,18.0,0.0,"pelham, new york, usa",english283,english,male,951,usa,False,158.36376953125
+568,33.0,0.0,"gainesville, florida, usa",english284,english,male,952,usa,False,129.93701171875
+569,50.0,0.0,"melbourne, australia",english285,english,male,961,australia,False,153.64501953125
+570,21.0,0.0,"beaumont, texas, usa",english286,english,female,977,usa,False,277.14697265625
+572,26.0,0.0,"st. louis, missouri, usa",english288,english,female,982,usa,False,287.2587890625
+573,19.0,0.0,"fairfax, virginia, usa",english289,english,female,983,usa,False,150.27880859375
+574,54.0,0.0,"lindsay, ontario, canada",english29,english,female,87,canada,False,291.0009765625
+575,20.0,0.0,"duluth, georgia, usa",english290,english,male,986,usa,False,113.37451171875
+577,38.0,0.0,"kansas city, missouri, usa",english292,english,male,1051,usa,False,168.30517578125
+578,22.0,0.0,"billings, montana, usa",english293,english,female,1052,usa,False,192.16357421875
+579,19.0,0.0,"naracoorte, australia",english294,english,female,1060,australia,False,171.43310546875
+580,25.0,0.0,"airdrie, alberta, canada",english295,english,male,1067,canada,False,161.18798828125
+581,18.0,0.0,"edmonton, alberta, canada",english296,english,female,1070,canada,False,192.509765625
+582,19.0,0.0,"lindenhurst, new york, usa",english297,english,male,1071,usa,False,240.845703125
+583,22.0,0.0,"lismore, new south wales, australia",english298,english,male,1072,australia,False,118.5751953125
+584,59.0,0.0,"windsor, ontario, canada",english299,english,male,1075,canada,False,245.5966796875
+585,26.0,0.0,"brisbane, australia",english3,english,female,88,australia,False,127.46044921875
+586,30.0,0.0,"st. mary's, ontario, canada",english30,english,female,89,canada,False,206.40625
+588,41.0,0.0,"toronto, ontario, canada",english301,english,male,1078,canada,False,88.7275390625
+589,22.0,0.0,"melbourne, australia",english302,english,male,1085,australia,False,258.94580078125
+590,45.0,0.0,"anaheim, california, usa",english303,english,female,1086,usa,False,323.46533203125
+593,24.0,0.0,"london, uk",english306,english,female,1093,uk,False,111.818359375
+594,48.0,0.0,"alexandria, va, usa",english307,english,male,1100,usa,False,176.03173828125
+595,34.0,0.0,"cardiff, wales, uk",english308,english,male,1101,uk,False,145.564453125
+598,37.0,0.0,"oxford, uk",english310,english,female,1108,uk,False,118.3115234375
+599,38.0,0.0,"detroit, michigan, usa",english311,english,female,1110,usa,False,208.81201171875
+600,40.0,0.0,"edmonton, alberta, canada",english312,english,female,1113,canada,False,110.787109375
+601,28.0,0.0,"silver spring, maryland, usa",english313,english,male,1119,usa,False,215.95947265625
+602,26.0,0.0,"memphis, tennessee, usa",english314,english,female,1120,usa,False,119.638671875
+603,25.0,0.0,"los angeles, california, usa",english315,english,male,1121,usa,False,166.91796875
+604,33.0,0.0,"sacramento, california, usa",english316,english,male,1122,usa,False,130.20703125
+605,26.0,0.0,"burlington, vermont, usa",english317,english,male,1132,usa,False,19.74609375
+606,46.0,0.0,"sarnia, ontario, canada",english318,english,male,1137,canada,False,144.26806640625
+607,29.0,0.0,"grimsby, lincolnshire, uk",english319,english,male,1138,uk,False,103.33251953125
+608,50.0,0.0,"fresno, california, usa",english32,english,female,91,usa,False,197.31396484375
+610,52.0,0.0,"brooklyn, new york, usa",english321,english,male,1163,usa,False,120.73486328125
+611,29.0,0.0,"yorkton, saskatchewan, canada",english322,english,male,1172,canada,False,151.716796875
+612,31.0,0.0,"regina, saskatchewan, canada",english323,english,female,1173,canada,False,150.7353515625
+613,28.0,0.0,"st. marys, ontario, canada",english324,english,male,1174,canada,False,203.8359375
+614,32.0,0.0,"reading, pennsylvania, usa",english325,english,male,1176,usa,False,193.76708984375
+615,53.0,0.0,"fairborn, ohio, usa",english326,english,male,1188,usa,False,109.99951171875
+616,27.0,0.0,"dunedin, florida, usa",english327,english,male,1205,usa,False,222.8291015625
+617,23.0,0.0,"hollywood, florida, usa",english328,english,female,1206,usa,False,174.923828125
+618,21.0,0.0,"boise, idaho, usa",english329,english,female,1207,usa,False,57.6328125
+619,21.0,0.0,"san diego, california, usa",english33,english,male,92,usa,False,162.26318359375
+620,18.0,0.0,"augusta, georgia, usa",english330,english,female,1208,usa,False,178.5205078125
+621,28.0,0.0,"perth, australia",english331,english,female,1209,australia,False,238.53271484375
+622,20.0,0.0,"baltimore, maryland, usa",english332,english,female,1212,usa,False,200.546875
+623,32.0,0.0,"spokane, washington, usa",english333,english,female,1214,usa,False,101.65576171875
+624,18.0,0.0,"derby, england, uk",english334,english,female,1215,uk,False,229.9423828125
+625,6.0,0.0,"washington, district of columbia, usa",english335,english,male,1216,usa,False,246.77978515625
+626,46.0,0.0,"baltimore, maryland, usa",english336,english,female,1217,usa,False,277.56298828125
+627,84.0,0.0,"jersey city, new jersey, usa",english337,english,female,1218,usa,False,138.33740234375
+628,53.0,0.0,"sydney, australia",english338,english,female,1219,australia,False,99.4736328125
+629,54.0,0.0,"chicago, illinois, usa",english339,english,male,1220,usa,False,132.74609375
+630,18.0,0.0,"ronkonkoma, new york, usa",english34,english,female,93,usa,False,161.61767578125
+631,19.0,0.0,"charleston, west virginia, usa",english340,english,male,1222,usa,False,245.21337890625
+632,23.0,0.0,"new york, new york, usa",english341,english,female,1224,usa,False,94.28955078125
+633,33.0,0.0,"kansas city, missouri, usa",english342,english,male,1225,usa,False,118.23876953125
+634,23.0,0.0,"portland, maine, usa",english343,english,male,1226,usa,False,131.64013671875
+635,19.0,0.0,"lumberton, north carolina, usa",english344,english,female,1232,usa,False,162.095703125
+636,20.0,0.0,"kansas city, missouri, usa",english345,english,male,1233,usa,False,142.7734375
+637,60.0,0.0,"east hartford, connecticut, usa",english346,english,male,1235,usa,False,152.728515625
+638,22.0,0.0,"burnsville, minnesota, usa",english347,english,female,1236,usa,False,331.4150390625
+640,24.0,0.0,"warrenton, virginia, usa",english349,english,female,1239,usa,False,306.15673828125
+641,60.0,0.0,"milwaukee, wisconsin, usa",english35,english,female,94,usa,False,187.333984375
+642,18.0,0.0,"polesworth, staffordshire, uk",english350,english,female,1241,uk,False,70.48388671875
+643,37.0,0.0,"carthage, missouri, usa",english351,english,male,1242,usa,False,119.88720703125
+645,18.0,0.0,"saskatoon, saskatchewan, canada",english353,english,male,1246,canada,False,91.40576171875
+647,19.0,0.0,"los angeles, california, usa",english355,english,male,1256,usa,False,139.19580078125
+648,23.0,0.0,"morden, manitoba, canada",english356,english,female,1257,canada,False,173.68212890625
+649,24.0,0.0,"alto, georgia, usa",english357,english,male,1258,usa,False,141.52734375
+650,19.0,0.0,"fredericton, new brunswick, canada",english358,english,male,1259,canada,False,112.44384765625
+651,32.0,0.0,"sackville, new brunswick, canada",english359,english,male,1276,canada,False,169.8916015625
+652,60.0,0.0,"arcadia, wisconsin, usa",english36,english,male,95,usa,False,125.6494140625
+653,19.0,0.0,"erie, pennsylvania, usa",english360,english,female,1277,usa,False,389.08740234375
+654,20.0,0.0,"burnsville, minnesota, usa",english361,english,female,1280,usa,False,265.15966796875
+656,20.0,0.0,"castle donington, uk",english363,english,male,1287,uk,False,153.73828125
+657,28.0,0.0,"sydney, australia",english364,english,female,1288,australia,False,249.763671875
+658,52.0,0.0,"oxford, uk",english365,english,male,1292,uk,False,123.58740234375
+659,25.0,0.0,"bournesmouth, uk",english366,english,female,1293,uk,False,214.2861328125
+660,25.0,0.0,"birkenhead, uk",english367,english,female,1294,uk,False,265.181640625
+661,43.0,0.0,"strattford-on-avon, uk",english368,english,male,1295,uk,False,256.64404296875
+662,27.0,0.0,"mcminnville, oregon, usa",english369,english,male,1297,usa,False,209.90478515625
+663,28.0,0.0,"yole, india",english37,english,female,96,india,False,248.26220703125
+664,22.0,0.0,"pondicherry, india",english370,english,male,1302,india,False,223.48681640625
+665,27.0,0.0,"colorado springs, colorado, usa",english371,english,female,1303,usa,False,262.154296875
+666,80.0,0.0,"christiansburg, virginia, usa",english372,english,male,1307,usa,False,83.70068359375
+667,22.0,0.0,"russellville, kentucky, usa",english373,english,male,1308,usa,False,162.75634765625
+668,36.0,0.0,"milford haven, wales, uk",english374,english,male,1310,uk,False,126.32373046875
+669,28.0,0.0,"manchester, connecticut, usa",english375,english,male,1312,usa,False,146.98681640625
+670,46.0,0.0,"pasadena, california, usa",english376,english,male,1315,usa,False,72.7763671875
+671,32.0,0.0,"trenton, michigan, usa",english377,english,female,1319,usa,False,87.8837890625
+672,38.0,0.0,"silver spring, maryland, usa",english378,english,female,1320,usa,False,65.4326171875
+673,43.0,0.0,"summit, new jersey, usa",english379,english,male,1321,usa,False,88.3076171875
+674,27.0,0.0,"littlehampton, uk",english38,english,male,97,uk,False,159.39404296875
+675,34.0,0.0,"roanoke, virginia, usa",english380,english,female,1323,usa,False,96.00146484375
+676,85.0,0.0,"pike county, kentucky, usa",english381,english,male,1324,usa,False,198.98876953125
+677,34.0,0.0,"arlington, virginia, usa",english382,english,male,1325,usa,False,116.9970703125
+678,32.0,0.0,"washington, district of columbia, usa",english383,english,female,1326,usa,False,114.33642578125
+679,57.0,0.0,"williamson, west virginia, usa",english384,english,male,1327,usa,False,138.673828125
+680,77.0,0.0,"mcveigh, kentucky, usa",english385,english,female,1328,usa,False,179.728515625
+681,56.0,0.0,"los angeles, california, usa",english386,english,female,1330,usa,False,127.1533203125
+682,21.0,0.0,"lancaster, california, usa",english387,english,female,1331,usa,False,87.00244140625
+683,70.0,0.0,"bluefield, west virginia, usa",english388,english,female,1332,usa,False,123.85498046875
+684,71.0,0.0,"aldie, virginia, usa",english389,english,female,1333,usa,False,90.68994140625
+685,59.0,0.0,"new orleans, louisiana, usa",english39,english,female,98,usa,False,227.31640625
+686,74.0,0.0,"milwaukee, wisconsin, usa",english390,english,male,1334,usa,False,177.962890625
+687,84.0,0.0,"milton, florida, usa",english391,english,female,1335,usa,False,110.82177734375
+688,62.0,0.0,"warrenton, virginia, usa",english392,english,male,1336,usa,False,108.58984375
+689,58.0,0.0,"washington, district of columbia, usa",english393,english,female,1337,usa,False,92.4228515625
+690,82.0,0.0,"aiken, south carolina, usa",english394,english,female,1339,usa,False,123.9541015625
+691,39.0,0.0,"alexandria, virginia, usa",english395,english,male,1340,usa,False,75.97509765625
+692,48.0,0.0,"orange, virginia, usa",english396,english,female,1341,usa,False,96.38916015625
+693,76.0,0.0,"wadesboro, north carolina, usa",english397,english,female,1342,usa,False,122.392578125
+694,83.0,0.0,"salisbury, north carolina, usa",english398,english,female,1343,usa,False,102.423828125
+695,80.0,0.0,"la grange, georgia, usa",english399,english,female,1345,usa,False,114.23095703125
+697,53.0,0.0,"dudley, uk",english40,english,male,100,uk,False,195.61962890625
+698,59.0,0.0,"shanklin, isle of wight, uk",english400,english,female,1348,uk,False,211.12548828125
+700,26.0,0.0,"canberra, australia",english402,english,female,1350,australia,False,181.58251953125
+701,29.0,0.0,"sydney, australia",english403,english,female,1351,australia,False,186.35693359375
+702,29.0,0.0,"windsor, australia",english404,english,male,1352,australia,False,172.98828125
+703,32.0,0.0,"geelong, australia",english405,english,female,1353,australia,False,185.251953125
+704,24.0,0.0,"pensacola, florida, usa",english406,english,female,1358,usa,False,186.9599609375
+705,47.0,0.0,"windsor, ontario, canada",english407,english,male,1360,canada,False,113.32763671875
+706,64.0,0.0,"lynwood, california, usa",english408,english,male,1361,usa,False,123.12548828125
+707,60.0,0.0,"maitland, australia",english409,english,female,1362,australia,False,166.17919921875
+710,26.0,0.0,"washington, district of columbia, usa",english411,english,female,1371,usa,False,104.8134765625
+711,31.0,0.0,"washington, district of columbia, usa",english412,english,female,1372,usa,False,81.0107421875
+712,20.0,0.0,"manchester, england, uk",english413,english,female,1373,uk,False,149.4716796875
+713,30.0,0.0,"woonsocket, rhode island, usa",english414,english,female,1374,usa,False,156.3984375
+714,32.0,0.0,"woonsocket, rhode island, usa",english415,english,male,1375,usa,False,201.57861328125
+715,34.0,0.0,"sydney, australia",english416,english,male,1377,australia,False,262.26123046875
+716,20.0,0.0,"cardiff, wales, uk",english417,english,female,1380,uk,False,232.73828125
+718,27.0,0.0,"youngstown, ohio, usa",english419,english,male,1385,usa,False,130.18017578125
+721,38.0,0.0,"landstuhl, germany",english421,english,male,1388,germany,False,222.60205078125
+722,31.0,0.0,"rochester, new york, usa",english422,english,male,1390,usa,False,178.63916015625
+723,24.0,0.0,"baltimore, maryland, usa",english423,english,female,1395,usa,False,193.08251953125
+724,75.0,0.0,"danville, virginia, usa",english424,english,male,1409,usa,False,154.4990234375
+725,31.0,0.0,"danville, virginia, usa",english425,english,male,1410,usa,False,145.0888671875
+726,30.0,0.0,"florence, south carolina, usa",english426,english,female,1411,usa,False,221.7900390625
+727,68.0,0.0,"hanover, pennsylvania, usa",english427,english,female,1412,usa,False,147.25390625
+728,55.0,0.0,"kingstree, south carolina, usa",english428,english,female,1413,usa,False,205.36279296875
+729,19.0,0.0,"philadelphia, pennsylvania, usa",english429,english,female,1416,usa,False,89.3994140625
+730,47.0,0.0,"vancouver, british columbia, canada",english43,english,male,103,canada,False,196.22802734375
+731,23.0,0.0,"melbourne, australia",english430,english,female,1419,australia,False,165.822265625
+732,23.0,0.0,"green bay, wisconsin, usa",english431,english,female,1423,usa,False,83.9248046875
+734,32.0,0.0,"gladwin, michigan, usa",english433,english,female,1430,usa,False,131.45263671875
+735,24.0,0.0,"kansas city, kansas, usa",english434,english,male,1469,usa,False,118.30419921875
+736,20.0,0.0,"palm springs, california, usa",english435,english,female,1471,usa,False,187.51318359375
+738,21.0,0.0,"cleveland, ohio, usa",english437,english,male,1477,usa,False,180.46240234375
+739,20.0,0.0,"houston, texas, usa",english438,english,female,1492,usa,False,193.72119140625
+740,18.0,0.0,"richmond, british columbia, canada",english439,english,female,1493,canada,False,175.54150390625
+741,63.0,0.0,"winston salem, north carolina, usa",english44,english,female,104,usa,False,280.71533203125
+742,22.0,0.0,"glasgow, scotland, uk",english440,english,female,1502,uk,False,129.28125
+743,19.0,0.0,"oquawka, illinois, usa",english441,english,female,1524,usa,False,151.900390625
+744,23.0,0.0,"salisbury mills, new york, usa",english442,english,male,1528,usa,False,179.853515625
+745,31.0,0.0,"fort collins, colorado, usa",english443,english,male,1530,usa,False,170.8876953125
+746,24.0,0.0,"anniston, alabama, usa",english444,english,male,1531,usa,False,111.39697265625
+747,60.0,0.0,"san francisco, california, usa",english445,english,male,1532,usa,False,212.63720703125
+748,23.0,0.0,"moorhead, minnesota, usa",english446,english,female,1533,usa,False,158.9462890625
+749,21.0,0.0,"hartford, connecticut, usa",english447,english,male,1534,usa,False,221.5048828125
+750,20.0,0.0,"isle of arran, scotland, uk",english448,english,male,1536,uk,False,218.93505859375
+751,27.0,0.0,"barton, vermont, usa",english449,english,male,1538,usa,False,110.33447265625
+752,52.0,0.0,"pine bluff, arkansas, usa",english45,english,male,105,usa,False,249.00732421875
+753,26.0,0.0,"windsor, uk",english450,english,male,1544,uk,False,179.2724609375
+754,44.0,0.0,"hazlehurst, georgia, usa",english451,english,male,1546,usa,False,133.6572265625
+755,24.0,0.0,"newcastle, australia",english452,english,male,1547,australia,False,67.82421875
+756,21.0,0.0,"chicago, illinois, usa",english453,english,female,1548,usa,False,166.94140625
+757,19.0,0.0,"raleigh, north carolina, usa",english454,english,female,1550,usa,False,156.68115234375
+758,29.0,0.0,"washington, dc, usa",english455,english,female,1552,usa,False,127.24755859375
+759,37.0,0.0,"lancashire, leyland, uk",english456,english,female,1554,uk,False,165.57666015625
+760,43.0,0.0,"syracuse, new york, usa",english457,english,male,1555,usa,False,218.63671875
+761,22.0,0.0,"reno, nevada, usa",english458,english,female,1559,usa,False,178.4462890625
+762,19.0,0.0,"charlotte, north carolina, usa",english459,english,male,1560,usa,False,289.2421875
+763,73.0,0.0,"creswell, north carolina, usa",english46,english,male,106,usa,False,223.025390625
+764,19.0,0.0,"rutland, england, uk",english460,english,female,1561,uk,False,173.75634765625
+765,44.0,0.0,"poughkeepsie, new york, usa",english461,english,female,1563,usa,False,223.8447265625
+766,20.0,0.0,"paducah, kentucky, usa",english462,english,male,1564,usa,False,200.33984375
+767,53.0,0.0,"brooklyn, new york, usa",english463,english,female,1571,usa,False,152.1416015625
+768,27.0,0.0,"ottawa, ontario, canada",english464,english,male,1618,canada,False,161.31005859375
+769,20.0,0.0,"aylesbury, buckinghamshire, uk",english465,english,male,1635,uk,False,96.6396484375
+770,18.0,0.0,"portland, maine, usa",english466,english,male,1637,usa,False,284.1708984375
+771,23.0,1.0,"pozzuoli, italy",english467,english,male,1639,italy,False,245.25
+772,30.0,0.0,"myrtle beach, south carolina, usa",english468,english,male,1640,usa,False,155.1875
+773,22.0,0.0,"knoxville, tennessee, usa",english469,english,male,1641,usa,False,230.37890625
+774,76.0,0.0,"plantersville, arkansas, usa",english47,english,female,107,usa,False,186.59619140625
+775,21.0,0.0,"leighton buzzard, uk",english470,english,male,1642,uk,False,189.5322265625
+776,26.0,0.0,"calgary, alberta, canada",english471,english,female,1648,canada,False,231.521484375
+778,20.0,0.0,"nottingham, uk",english473,english,male,1650,uk,False,75.61181640625
+779,33.0,0.0,"rochester, minnesota, usa",english474,english,female,1656,usa,False,111.6103515625
+780,29.0,0.0,"ogden, utah, usa",english475,english,female,1657,usa,False,97.4609375
+781,64.0,0.0,"manchester, new hampshire, usa",english476,english,female,1658,usa,False,121.9755859375
+782,31.0,0.0,"san diego, california, usa",english477,english,female,1659,usa,False,342.3759765625
+783,19.0,0.0,"sydney, nova scotia, canada",english478,english,male,1661,canada,False,220.6953125
+784,64.0,0.0,"new york, new york, usa",english479,english,female,1664,usa,False,148.0400390625
+786,58.0,0.0,"winston-salem, north carolina, usa",english480,english,male,1665,usa,False,103.41015625
+787,88.0,0.0,"stringtown, oklahoma, usa",english481,english,female,1666,usa,False,184.08544921875
+788,74.0,0.0,"yeadon, pennsylvania, usa",english482,english,female,1667,usa,False,159.95166015625
+789,19.0,0.0,"boston, massachusetts, usa",english483,english,male,1668,usa,False,142.07080078125
+791,20.0,0.0,"cromwell, connecticut, usa",english485,english,male,1674,usa,False,331.50390625
+793,22.0,0.0,"london, uk",english487,english,female,1688,uk,False,159.1298828125
+794,35.0,0.0,"irvine, scotland, uk",english488,english,female,1692,uk,False,333.52197265625
+796,43.0,0.0,"castro valley, california, usa",english49,english,male,109,usa,False,208.72119140625
+799,22.0,0.0,"omaha, nebraska, usa",english492,english,female,1716,usa,False,219.90771484375
+800,20.0,0.0,"miami, florida, usa",english493,english,male,1718,usa,False,253.67236328125
+801,27.5,0.0,"findlay, ohio, usa",english494,english,male,1719,usa,False,172.89990234375
+802,21.0,0.0,"kirkland, washington, usa",english495,english,male,1720,usa,False,184.63671875
+803,20.0,0.0,"london, england, uk",english496,english,male,1724,uk,False,106.88525390625
+804,22.0,0.0,"cleveland, ohio, usa",english497,english,male,1726,usa,False,379.8798828125
+805,27.0,0.0,"prince george, british columbia, canada",english498,english,male,1727,canada,False,215.2158203125
+806,21.0,0.0,"st. paul, minnesota, usa",english499,english,female,1728,usa,False,221.86767578125
+807,62.0,0.0,"fairfax, virginia, usa",english5,english,male,110,usa,False,215.25537109375
+808,29.0,0.0,"baltic, south dakota, usa",english50,english,female,111,usa,False,192.19580078125
+809,38.0,0.0,"albury, new south wales, australia",english500,english,male,1733,australia,False,209.916015625
+810,64.0,0.0,"pittsburgh, pennsylvania, usa",english501,english,female,1734,usa,False,375.31494140625
+811,30.0,0.0,"farmington hills, michigan, usa",english502,english,female,1735,usa,False,260.57763671875
+813,25.0,0.0,"west palm beach, florida, usa",english504,english,male,1786,usa,False,185.0595703125
+815,30.0,0.0,"new orleans, louisiana, usa",english506,english,female,1799,usa,False,208.1650390625
+817,20.0,0.0,"winfield, illinois, usa",english508,english,female,1801,usa,False,192.59619140625
+818,44.0,0.0,"coudersport, pennsylvania, usa",english509,english,female,1802,usa,False,288.6337890625
+819,67.0,0.0,"detroit, michigan, usa",english51,english,male,112,usa,False,149.2451171875
+820,66.0,0.0,"philadelphia, pennsylvania, usa",english510,english,female,1803,usa,False,321.19970703125
+821,31.0,0.0,"montgomery, alabama, usa",english511,english,female,1818,usa,False,210.0712890625
+822,54.0,0.0,"salina, kansas, usa",english512,english,female,1819,usa,False,176.71728515625
+824,57.0,0.0,"youngstown, ohio, usa",english514,english,male,1872,usa,False,165.35888671875
+825,55.0,0.0,"youngstown, ohio, usa",english515,english,female,1873,usa,False,173.326171875
+826,32.0,0.0,"dripping springs, texas, usa",english516,english,female,1875,usa,False,111.26171875
+827,33.0,0.0,"colorado springs, colorado, usa",english517,english,male,1876,usa,False,93.8525390625
+830,20.0,0.0,"calgary, alberta, canada",english52,english,male,113,canada,False,122.71142578125
+831,47.0,0.0,"st. paul, minnesota, usa",english520,english,female,1884,usa,False,251.02734375
+832,25.0,0.0,"bethesda, maryland, usa",english521,english,female,1886,usa,False,199.26220703125
+833,22.0,0.0,"bethpage, new york, usa",english522,english,female,1887,usa,False,136.51416015625
+834,18.0,0.0,"madison, wisconsin, usa",english523,english,female,1888,usa,False,166.11181640625
+835,19.0,0.0,"downers grove, illinois, usa",english524,english,male,1890,usa,False,149.5390625
+836,18.0,0.0,"albion, new york, usa",english525,english,female,1893,usa,False,205.27978515625
+837,20.0,0.0,"woodbridge, virginia, usa",english526,english,male,1895,usa,False,211.89794921875
+838,25.0,0.0,"wynnewood, pennsylvania, usa",english527,english,female,1907,usa,False,201.95556640625
+839,52.0,0.0,"green bay, wisconsin, usa",english528,english,female,1908,usa,False,215.2958984375
+840,29.0,0.0,"burlington, vermont, usa",english529,english,female,1925,usa,False,171.7109375
+841,63.0,0.0,"syracuse, new york, usa",english53,english,male,114,usa,False,153.91064453125
+842,50.0,0.0,"detroit, michigan, usa",english530,english,female,1926,usa,False,236.4384765625
+843,29.0,0.0,"nokesville, virginia, usa",english531,english,female,1928,usa,False,211.87548828125
+844,23.0,0.0,"bristol, connecticut, usa",english532,english,female,1933,usa,False,185.11572265625
+845,38.0,0.0,"fairfax, virginia, usa",english533,english,female,1934,usa,False,246.72705078125
+846,29.0,0.0,"mineola, new york, usa",english534,english,female,1951,usa,False,315.775390625
+847,22.0,0.0,"plymouth, massachusetts, usa",english535,english,female,1955,usa,False,179.69580078125
+848,21.0,0.0,"richmond, virginia, usa",english536,english,female,1956,usa,False,196.3330078125
+849,21.0,0.0,"woodbridge, virginia, usa",english537,english,female,1957,usa,False,207.28125
+850,20.0,0.0,"lyndhurst, virginia, usa",english538,english,female,1958,usa,False,220.66455078125
+851,19.0,0.0,"orange county, california, usa",english539,english,female,1959,usa,False,184.62841796875
+852,40.0,0.0,"new albany, indiana, usa",english54,english,female,115,usa,False,207.91796875
+853,18.0,0.0,"arlington, virginia, usa",english540,english,female,1960,usa,False,185.5908203125
+854,27.0,0.0,"fort lauderdale, florida, usa",english541,english,female,1961,usa,False,177.39501953125
+855,60.0,0.0,"toronto, ontario, canada",english542,english,male,1962,canada,False,185.705078125
+856,39.0,0.0,"vancouver, british columbia, canada",english543,english,female,1969,canada,False,232.55908203125
+857,31.0,0.0,"hanover, new hampshire, usa",english544,english,male,1970,usa,False,101.3134765625
+858,56.0,0.0,"tangier island, virginia, usa",english545,english,male,1995,usa,False,179.77783203125
+859,43.0,0.0,"tangier island, virginia, usa",english546,english,female,1996,usa,False,187.85205078125
+860,63.0,0.0,"tangier island, virginia, usa",english547,english,male,1997,usa,False,247.26904296875
+862,19.0,0.0,"exminister, uk",english549,english,female,2012,uk,False,151.74267578125
+863,53.0,0.0,"st. louis, missouri, usa",english55,english,female,116,usa,False,258.4423828125
+864,82.0,0.0,"fredericksburg, virginia, usa",english550,english,male,2028,usa,False,324.53515625
+865,81.0,0.0,"king george, virginia, usa",english551,english,female,2029,usa,False,338.4619140625
+866,23.0,0.0,"bethesda, maryland, usa",english552,english,female,2043,usa,False,161.80810546875
+867,21.0,0.0,"nashville, tennessee, usa",english553,english,male,2046,usa,False,149.9052734375
+868,22.0,0.0,"hoffman estates, illinois, usa",english554,english,female,2047,usa,False,49.11474609375
+869,90.0,0.0,"brooklyn, new york, usa",english555,english,male,2049,usa,False,179.57373046875
+870,84.0,0.0,"brooklyn, new york, usa",english556,english,female,2050,usa,False,193.53662109375
+872,23.0,0.0,"queens, new york, usa",english558,english,male,2055,usa,False,87.3369140625
+873,19.0,0.0,"reston, virginia, usa",english559,english,female,2056,usa,False,299.53564453125
+874,20.0,0.0,"londonderry, northern ireland, uk",english56,english,male,117,uk,False,218.62744140625
+875,22.0,0.0,"hartford, connecticut, usa",english560,english,female,2059,usa,False,300.38232421875
+876,20.0,0.0,"yorktown, virginia, usa",english561,english,female,2060,usa,False,243.81591796875
+877,30.0,0.0,"florence, south carolina, usa",english562,english,female,2061,usa,False,244.97509765625
+878,32.0,0.0,"manassas, virginia, usa",english563,english,male,2074,usa,False,243.98486328125
+879,52.0,0.0,"casper, wyoming, usa",english564,english,male,2077,usa,False,214.98486328125
+880,27.0,0.0,"portland, oregon, usa",english565,english,female,2080,usa,False,175.22705078125
+881,22.0,0.0,"derby, england, uk",english566,english,male,2081,uk,False,255.65087890625
+882,24.0,0.0,"new york, new york, usa",english567,english,male,2101,usa,False,168.99658203125
+883,86.0,0.0,"quincy, florida, usa",english568,english,female,2103,usa,False,197.37548828125
+884,24.0,0.0,"sydney, australia",english569,english,male,2104,australia,False,239.76123046875
+885,34.0,0.0,"birmingham 1, uk",english57,english,male,118,uk,False,128.03515625
+886,42.0,0.0,"parma, ohio, usa",english570,english,female,2106,usa,False,131.89453125
+887,39.0,0.0,"washington, dc, usa",english571,english,male,2113,usa,False,76.04638671875
+888,51.0,0.0,"fort worth, texas, usa",english572,english,male,2121,usa,False,173.833984375
+889,46.0,0.0,"painesville, ohio, usa",english573,english,male,2124,usa,False,123.7216796875
+890,26.0,0.0,"toronto, ontario, canada",english574,english,female,2162,canada,False,203.5869140625
+891,24.0,0.0,"great falls, virginia, usa",english575,english,male,2165,usa,False,147.49560546875
+892,63.0,0.0,"washington, dc, usa",english576,english,female,2167,usa,False,339.740234375
+893,38.0,0.0,"san leandro, california, usa",english577,english,female,2170,usa,False,195.1064453125
+894,60.0,0.0,"salford, lancashire, uk",english578,english,male,2171,uk,False,189.73779296875
+895,22.0,0.0,"adelaide, australia",english579,english,male,2172,australia,False,39.34619140625
+896,46.0,0.0,"southhampton, uk",english58,english,female,119,uk,False,206.99951171875
+897,30.0,0.0,"columbus, ohio, usa",english59,english,male,120,usa,False,170.31884765625
+898,45.0,0.0,"brooklyn, new york, usa",english6,english,female,121,usa,False,226.0703125
+899,18.0,0.0,"chesapeake, virginia, usa",english60,english,male,122,usa,False,162.61083984375
+900,19.0,0.0,"toronto, ontario, canada",english61,english,male,123,canada,False,115.2900390625
+901,30.0,0.0,"west jordan, utah, usa",english62,english,male,124,usa,False,173.10888671875
+902,21.0,0.0,"lewisville, texas, usa",english63,english,male,125,usa,False,201.17822265625
+903,25.0,0.0,"montreal, quebec, canada",english64,english,female,126,canada,False,178.59765625
+904,47.0,0.0,"lewistown, pennsylvania, usa",english65,english,male,127,usa,False,121.81396484375
+905,19.0,0.0,"baltimore, maryland, usa",english66,english,male,128,usa,False,96.82861328125
+906,37.0,0.0,"princeton, indiana, usa",english67,english,male,129,usa,False,319.61474609375
+907,52.0,0.0,"new york, new york, usa",english68,english,male,130,usa,False,199.58935546875
+908,23.0,0.0,"adelaide, australia",english69,english,male,131,australia,False,93.11474609375
+909,52.0,0.0,"macon, mississippi, usa",english7,english,male,132,usa,False,163.16015625
+910,21.0,0.0,"beaumont, texas, usa",english70,english,male,133,usa,False,123.15478515625
+911,20.0,0.0,"west covina, california, usa",english71,english,male,134,usa,False,73.25
+913,24.0,0.0,"darwin, australia",english73,english,male,136,australia,False,206.47314453125
+914,21.0,0.0,"wichita, kansas, usa",english74,english,male,137,usa,False,162.91650390625
+915,32.0,0.0,"idaho falls, idaho, usa",english75,english,male,138,usa,False,267.97412109375
+916,18.0,0.0,"boston, massachusetts, usa",english76,english,female,139,usa,False,134.298828125
+917,26.0,0.0,"melbourne, australia",english77,english,male,140,australia,False,268.05908203125
+918,20.0,0.0,"caribou, maine, usa",english78,english,female,141,usa,False,218.609375
+919,73.0,0.0,"boston, massachusetts, usa",english79,english,male,142,usa,False,173.634765625
+920,21.0,0.0,"perth, australia",english8,english,female,143,australia,False,151.4462890625
+921,34.0,0.0,"glasgow, scotland, uk",english80,english,male,144,uk,False,135.52587890625
+922,30.0,0.0,"st. paul, minnesota, usa",english81,english,male,145,usa,False,121.45068359375
+923,50.0,0.0,"chicago, illinois, usa",english82,english,female,146,usa,False,83.0322265625
+924,42.0,0.0,"winnfield, louisiana, usa",english83,english,female,147,usa,False,234.595703125
+925,45.0,0.0,"sydney, australia",english84,english,male,148,australia,False,157.6630859375
+926,31.0,0.0,"strabane, northern ireland, uk",english85,english,male,149,uk,False,44.0556640625
+927,50.0,0.0,"charleston, south carolina, usa",english86,english,male,150,usa,False,172.732421875
+928,18.0,0.0,"tamworth, australia",english87,english,female,151,australia,False,145.990234375
+929,18.0,0.0,"grand rapids, michigan, usa",english88,english,male,152,usa,False,125.708984375
+930,18.0,0.0,"kingston ma, massachusetts, usa",english89,english,male,153,usa,False,64.92919921875
+931,48.0,0.0,"carthage, texas, usa",english9,english,female,154,usa,False,173.103515625
+932,53.0,0.0,"pittsburgh, pennsylvania, usa",english90,english,male,155,usa,False,136.9072265625
+934,22.0,0.0,"wisconsin rapids, wisconsin, usa",english92,english,female,157,usa,False,132.69921875
+935,22.0,0.0,"mamou, louisiana, usa",english93,english,female,158,usa,False,187.42919921875
+936,55.0,0.0,"pensacola, florida, usa",english94,english,female,159,usa,False,190.134765625
+937,18.0,0.0,"mishawaka, indiana, usa",english95,english,male,160,usa,False,157.10986328125
+938,31.0,0.0,"point pleasant, new jersey, usa",english96,english,male,161,usa,False,136.69921875
+939,42.0,0.0,"wilmington nc, north carolina, usa",english97,english,male,162,usa,False,147.9091796875
+940,22.0,0.0,"spokane, washington, usa",english98,english,male,163,usa,False,109.52978515625
+941,52.0,0.0,"pittsburgh, pennsylvania, usa",english99,english,female,164,usa,False,214.69677734375
+958,52.0,6.0,"bethesda, maryland, usa",farsi14,farsi,female,1572,usa,False,272.5751953125
+986,30.0,5.0,"victoria, british columbia, canada",finnish5,finnish,male,873,canada,False,160.77392578125
+993,19.0,9.0,"montreal, quebec, canada",french12,french,female,524,canada,False,143.46484375
+997,19.0,7.0,"montreal, quebec, canada",french16,french,female,658,canada,False,83.2734375
+999,22.0,6.0,"washington, dc, usa",french18,french,male,741,usa,False,156.77783203125
+1002,23.0,12.0,"alma, quebec, canada",french20,french,male,804,canada,False,122.89208984375
+1004,78.0,16.0,"ghent, belgium",french22,french,female,822,belgium,False,185.486328125
+1005,76.0,16.0,"ghent, belgium",french23,french,female,823,belgium,False,153.60693359375
+1008,27.0,11.0,"montreal, quebec, canada",french26,french,female,917,canada,False,134.48583984375
+1016,62.0,10.0,"montreal, quebec, canada",french33,french,male,1127,canada,False,192.25830078125
+1021,22.0,8.0,"montreal, quebec, canada",french38,french,male,1424,canada,False,132.287109375
+1029,22.0,8.0,"montreal, quebec, canada",french45,french,male,1567,canada,False,190.61865234375
+1036,18.0,5.0,"liege, wallonia, belgium",french51,french,male,1765,belgium,False,283.69970703125
+1050,18.0,5.0,"rimouski, quebec, canada",french7,french,male,185,canada,False,151.525390625
+1051,66.0,16.0,"ghent, belgium",french8,french,male,186,belgium,False,285.728515625
+1060,72.0,40.0,"pingxiang, jiangxi, china",gan1,gan,male,1632,china,False,633.03564453125
+1065,51.0,9.0,"dilla, ethiopia",gedeo1,gedeo,male,1090,ethiopia,False,140.75830078125
+1071,48.0,12.0,"dusseldorf, germany",german1,german,female,189,germany,False,96.5771484375
+1072,24.0,10.0,"darmstadt, germany",german10,german,male,635,germany,False,136.35595703125
+1073,20.0,11.0,"frankfurt, germany",german11,german,female,640,germany,False,113.9091796875
+1078,31.0,11.0,"bremen, germany",german16,german,female,881,germany,False,133.37353515625
+1079,53.0,10.0,"frankfurt, germany",german17,german,female,882,germany,False,114.0673828125
+1081,19.0,11.0,"offenbach, germany",german19,german,female,928,germany,False,84.14892578125
+1082,29.0,12.0,"bemberg, germany",german2,german,female,190,germany,False,114.86328125
+1085,21.0,12.0,"elsterwerda, germany",german22,german,female,1092,germany,False,154.01806640625
+1086,24.0,11.0,"herdecke, germany",german23,german,male,1255,germany,False,183.18115234375
+1087,27.0,10.0,"niedersachsen, germany",german24,german,male,1383,germany,False,90.1328125
+1088,21.0,11.0,"geislingen, germany",german25,german,female,1443,germany,False,125.6875
+1089,77.0,24.0,"stuttgart, germany",german26,german,female,1452,germany,False,267.603515625
+1090,23.0,10.0,"bielefeld, germany",german27,german,male,1494,germany,False,217.23095703125
+1092,53.0,12.0,"coburg, germany",german29,german,female,1619,germany,False,186.64111328125
+1093,19.0,12.0,"meissen, germany",german3,german,female,191,germany,False,143.65673828125
+1095,21.0,10.0,"datteln, germany",german31,german,female,1685,germany,False,184.93017578125
+1096,29.0,12.0,"niedersachsen, germany",german32,german,female,1707,germany,False,165.4365234375
+1097,39.0,10.0,"stuttgart, germany",german33,german,male,1877,germany,False,241.21826171875
+1098,28.0,11.0,"bochum, germany",german34,german,male,1879,germany,False,147.37646484375
+1099,51.0,11.0,"ingolstadt, germany",german35,german,female,1972,germany,False,193.77783203125
+1100,18.0,14.0,"hamburg, germany",german36,german,female,1994,germany,False,207.95263671875
+1101,19.0,11.0,"stuttgart, germany",german4,german,female,192,germany,False,160.71630859375
+1102,47.0,12.0,"halle, germany",german5,german,male,193,germany,False,277.10009765625
+1104,20.0,11.0,"berlin, germany",german7,german,male,501,germany,False,160.05517578125
+1105,25.0,10.0,"bernburg, germany",german8,german,male,545,germany,False,48.34912109375
+1106,22.0,8.0,"wuppertal, germany",german9,german,male,616,germany,False,297.50244140625
+1110,24.0,4.0,"bethlehem, pennsylvania, usa",greek12,greek,male,1712,usa,False,313.8310546875
+1112,22.0,3.0,"lancaster, pennsylvania, usa",greek14,greek,female,1816,usa,False,192.43994140625
+1122,20.0,15.0,"ahmedabad, india",gujarati1,gujarati,male,198,india,False,176.193359375
+1123,22.0,8.0,"bombay, india",gujarati2,gujarati,male,199,india,False,140.123046875
+1125,53.0,16.0,"ahmedabad, india",gujarati4,gujarati,female,610,india,False,186.8642578125
+1126,28.0,3.0,"bombay, india",gujarati5,gujarati,female,1016,india,False,168.7783203125
+1127,29.0,5.0,"kutch, gujarat, india",gujarati6,gujarati,male,1143,india,False,130.50830078125
+1128,40.0,4.0,"hyderabad, india",gujarati7,gujarati,female,1504,india,False,94.349609375
+1129,27.0,7.0,"ahmedabad, india",gujarati8,gujarati,female,1678,india,False,221.5048828125
+1130,19.0,9.0,"surat, india",gujarati9,gujarati,male,2041,india,False,277.78369140625
+1133,51.0,12.0,"hosanna, ethiopia",hadiyya1,hadiyya,male,1022,ethiopia,False,192.0439453125
+1134,30.0,11.0,"hosanna, ethiopia",hadiyya2,hadiyya,male,1032,ethiopia,False,154.6767578125
+1155,27.0,2.0,"nagpur, maharashtra, india",hindi1,hindi,male,207,india,False,180.6572265625
+1156,19.0,10.5,"new delhi, india",hindi10,hindi,female,1202,india,False,87.87646484375
+1157,20.0,4.0,"chandigarh, india",hindi11,hindi,male,1437,india,False,129.11474609375
+1158,25.0,4.0,"allahabad, india",hindi12,hindi,female,1440,india,False,103.76708984375
+1159,43.0,13.0,"jaipur, india",hindi13,hindi,female,1633,india,False,221.15478515625
+1160,53.0,12.0,"new delhi, india",hindi14,hindi,male,1697,india,False,229.06591796875
+1161,23.0,1.0,"new delhi, india",hindi15,hindi,female,1794,india,False,230.6064453125
+1162,25.0,5.0,"new delhi, india",hindi16,hindi,male,1966,india,False,221.12158203125
+1163,47.0,3.0,"new delhi, india",hindi17,hindi,female,1988,india,False,291.876953125
+1164,21.0,5.0,"new delhi, india",hindi18,hindi,female,2125,india,False,140.48193359375
+1165,31.0,3.0,"hyderabad, india",hindi2,hindi,male,587,india,False,356.57958984375
+1166,42.0,5.0,"jalandhar, india",hindi3,hindi,male,593,india,False,110.0693359375
+1167,28.0,14.0,"bhilwara, rajisthan, india",hindi4,hindi,female,765,india,False,127.64990234375
+1168,64.0,10.0,"hubballi, karnataka, india",hindi5,hindi,female,845,india,False,106.46435546875
+1169,27.0,4.0,"new delhi, india",hindi6,hindi,female,866,india,False,77.369140625
+1170,60.0,5.0,"allahabad, utter pardesh, india",hindi7,hindi,female,867,india,False,109.271484375
+1171,19.0,8.0,"imphal, india",hindi8,hindi,male,910,india,False,127.69140625
+1172,31.0,4.0,"durgapur, west bengal, india",hindi9,hindi,male,1017,india,False,120.794921875
+1205,29.0,22.0,"carbonia, italy",italian1,italian,female,217,italy,False,183.01123046875
+1206,48.0,12.0,"palermo, italy",italian10,italian,male,627,italy,False,96.40185546875
+1207,30.0,18.0,"cagliari, italy",italian11,italian,male,641,italy,False,103.015625
+1209,20.0,8.0,"enna, italy",italian13,italian,male,733,italy,False,93.40625
+1210,20.0,8.0,"cosenza, italy",italian14,italian,male,761,italy,False,314.70849609375
+1211,48.0,15.0,"forli, italy",italian15,italian,male,839,italy,False,102.6064453125
+1212,40.0,14.0,"mantua, italy",italian16,italian,male,942,italy,False,114.95068359375
+1213,28.0,14.0,"turin, italy",italian17,italian,male,995,italy,False,105.41015625
+1214,20.0,8.0,"grugliasco, italy",italian18,italian,male,1043,italy,False,190.7529296875
+1215,19.0,11.0,"rome, italy",italian19,italian,male,1114,italy,False,164.68408203125
+1216,46.0,18.0,"caltanissetta, sicily, italy",italian2,italian,male,218,italy,False,233.99267578125
+1217,32.0,15.0,"naples, italy",italian20,italian,male,1123,italy,False,139.59716796875
+1218,42.0,20.0,"trento, italy",italian21,italian,male,1124,italy,False,158.1103515625
+1219,23.0,6.0,"teramo, italy",italian22,italian,male,1175,italy,False,261.1044921875
+1220,34.0,14.0,"cuneo, italy",italian23,italian,female,1177,italy,False,176.18212890625
+1221,23.0,6.0,"milan, italy",italian24,italian,female,1406,italy,False,156.404296875
+1222,40.0,3.5,"wiesbaden, germany",italian25,italian,male,1322,germany,False,85.08154296875
+1223,49.0,11.0,"siracusa, sicily, italy",italian26,italian,male,1489,italy,False,207.9619140625
+1224,33.0,10.0,"milan, italy",italian27,italian,female,1543,italy,False,202.22314453125
+1225,25.0,6.0,"rome, italy",italian28,italian,male,1679,italy,False,136.61181640625
+1226,21.0,8.0,"trieste, italy",italian29,italian,female,1686,italy,False,174.77490234375
+1227,55.0,21.0,"florence, italy",italian3,italian,male,219,italy,False,95.66357421875
+1228,23.0,11.0,"bologna, italy",italian30,italian,male,1741,italy,False,319.564453125
+1229,59.0,23.0,"naples, italy",italian31,italian,female,1976,italy,False,136.5576171875
+1230,49.0,14.0,"sardinia, italy",italian32,italian,male,1984,italy,False,348.9208984375
+1231,78.0,50.0,"bitonto, italy",italian33,italian,female,2020,italy,False,394.6865234375
+1232,47.0,11.0,"cremona, italy",italian4,italian,female,220,italy,False,118.4912109375
+1233,52.0,25.0,"vicenza, veneto, italy",italian5,italian,male,440,italy,False,94.57763671875
+1234,32.0,15.0,"naples, italy",italian6,italian,female,473,italy,False,29.23779296875
+1235,24.0,8.0,"naples, italy",italian7,italian,male,553,italy,False,108.5546875
+1236,43.0,10.0,"bari, italy",italian8,italian,male,589,italy,False,158.9912109375
+1237,18.0,8.0,"turin, italy",italian9,italian,male,619,italy,False,125.88623046875
+1268,36.0,9.0,"hosanna, ethiopia",kambaata1,kambaata,male,978,ethiopia,False,122.7705078125
+1269,51.0,7.0,"durame, ethiopia",kambaata2,kambaata,male,1002,ethiopia,False,177.5126953125
+1270,54.0,8.0,"hosanna, ethiopia",kambaata3,kambaata,male,1033,ethiopia,False,132.02587890625
+1271,26.0,5.0,"bangalore, india",kannada1,kannada,female,228,india,False,144.4296875
+1281,20.0,4.0,"auburn, australia",khmer6,khmer,female,1669,australia,False,207.3935546875
+1283,19.0,16.0,"new orleans, louisiana, usa",kikongo1,kikongo,male,464,usa,False,85.92724609375
+1299,38.0,6.0,"hyderabad, andhra pradesh, india",konkani1,konkani,female,438,india,False,127.69873046875
+1300,29.0,13.0,"ui jong bu, south korea",korean1,korean,male,238,south korea,False,273.693359375
+1301,34.0,13.0,"kwangju, south korea",korean10,korean,male,483,south korea,False,185.39404296875
+1302,26.0,14.0,"seoul, south korea",korean11,korean,male,559,south korea,False,132.787109375
+1303,31.0,31.0,"sokcho, south korea",korean12,korean,male,608,south korea,False,141.0390625
+1304,50.0,12.0,"pusan, south korea",korean13,korean,female,759,south korea,False,206.44091796875
+1306,42.0,40.0,"pusan, south korea",korean15,korean,male,1005,south korea,False,179.7333984375
+1307,30.0,13.0,"nonsan, south korea",korean16,korean,female,1006,south korea,False,177.81884765625
+1308,21.0,8.0,"cheju-do, south korea",korean17,korean,male,1007,south korea,False,235.1201171875
+1309,25.0,7.0,"seoul, south korea",korean18,korean,male,1117,south korea,False,107.53662109375
+1310,21.0,14.0,"seoul, south korea",korean19,korean,female,1118,south korea,False,155.7431640625
+1311,23.0,14.0,"taegu, south korea",korean2,korean,female,239,south korea,False,154.3642578125
+1312,58.0,13.0,"inchon, south korea",korean20,korean,female,1126,south korea,False,194.31298828125
+1313,21.0,12.0,"ulsan, south korea",korean21,korean,male,1142,south korea,False,47.990234375
+1314,19.0,8.0,"inchon, south korea",korean22,korean,female,1145,south korea,False,153.951171875
+1315,49.0,12.0,"seoul, south korea",korean23,korean,female,1196,south korea,False,177.68017578125
+1316,42.0,13.0,"seoul, south korea",korean24,korean,male,1370,south korea,False,155.3935546875
+1317,34.0,12.0,"anseong, kyong gi, south korea",korean25,korean,female,1386,south korea,False,185.21044921875
+1318,23.0,21.0,"seoul, south korea",korean26,korean,male,1507,south korea,False,146.4736328125
+1319,51.0,14.0,"haenam, south korea",korean27,korean,male,1624,south korea,False,347.21630859375
+1320,62.0,13.0,"seoul, south korea",korean28,korean,female,1663,south korea,False,209.51416015625
+1321,19.0,8.0,"masan, south korea",korean29,korean,female,1687,south korea,False,155.43359375
+1322,19.0,17.0,"seoul, south korea",korean3,korean,female,240,south korea,False,111.5361328125
+1323,49.0,14.0,"seoul, south korea",korean30,korean,female,1690,south korea,False,364.9951171875
+1324,18.0,7.0,"seoul, south korea",korean31,korean,female,1696,south korea,False,386.26611328125
+1325,35.0,28.0,"seoul, south korea",korean32,korean,female,1715,south korea,False,284.02001953125
+1326,30.0,13.0,"seongnam, south korea",korean33,korean,female,1722,south korea,False,177.3916015625
+1327,20.0,11.0,"seoul, south korea",korean34,korean,female,1814,south korea,False,296.21533203125
+1328,48.0,12.0,"kwangju, south korea",korean35,korean,male,1815,south korea,False,336.966796875
+1329,51.0,12.0,"taegu, south korea",korean36,korean,female,1838,south korea,False,257.6826171875
+1330,27.0,14.0,"seoul, south korea",korean37,korean,female,1843,south korea,False,205.66064453125
+1331,25.0,10.0,"inchon, south korea",korean38,korean,male,1848,south korea,False,166.5185546875
+1332,55.0,14.0,"pusan, south korea",korean39,korean,male,1862,south korea,False,243.53515625
+1333,29.0,15.0,"seoul, south korea",korean4,korean,female,241,south korea,False,120.6845703125
+1334,21.0,17.0,"seoul, south korea",korean40,korean,female,1943,south korea,False,110.64404296875
+1335,50.0,12.0,"seoul, south korea",korean41,korean,female,1946,south korea,False,202.30322265625
+1336,26.0,3.0,"bayside, new york, usa",korean42,korean,male,1950,usa,False,283.2255859375
+1337,20.0,13.0,"taejon, south korea",korean43,korean,male,1952,south korea,False,151.60302734375
+1338,49.0,14.0,"inchon, south korea",korean44,korean,male,1971,south korea,False,333.822265625
+1339,28.0,13.0,"inchon, south korea",korean45,korean,male,1982,south korea,False,202.37744140625
+1340,21.0,21.0,"seoul, south korea",korean46,korean,female,2015,south korea,False,216.71826171875
+1341,23.0,10.0,"seoul, south korea",korean47,korean,male,2058,south korea,False,251.01513671875
+1342,32.0,27.0,"seoul, south korea",korean48,korean,male,2075,south korea,False,131.28466796875
+1343,22.0,7.0,"an yang, south korea",korean49,korean,female,2098,south korea,False,300.07470703125
+1344,50.0,12.0,"seoul, south korea",korean5,korean,female,242,south korea,False,364.81103515625
+1345,57.0,13.0,"taejon, south korea",korean50,korean,female,2133,south korea,False,370.0498046875
+1346,25.0,16.0,"seoul, south korea",korean51,korean,male,2134,south korea,False,109.43115234375
+1347,40.0,12.0,"seoul, south korea",korean52,korean,male,2158,south korea,False,141.59619140625
+1348,21.0,12.0,"sunchun, south korea",korean6,korean,female,243,south korea,False,144.166015625
+1349,32.0,10.0,"seoul, south korea",korean7,korean,male,244,south korea,False,52.6884765625
+1350,39.0,13.0,"seoul, south korea",korean8,korean,female,452,south korea,False,113.2958984375
+1351,34.0,12.0,"taejon, south korea",korean9,korean,male,474,south korea,False,199.703125
+1419,24.0,5.0,"kerala state, kerala state, india",malayalam1,malayalam,male,255,india,False,165.1376953125
+1420,29.0,5.0,"trivandrum, kerala, india",malayalam2,malayalam,female,592,india,False,117.18359375
+1421,19.0,3.5,"bangalore, india",malayalam3,malayalam,female,1780,india,False,150.236328125
+1425,26.0,13.0,"shanxi province, shanxi, china",mandarin1,mandarin,female,256,china,False,203.23046875
+1426,19.0,3.0,"beijing, china",mandarin10,mandarin,male,491,china,False,100.81396484375
+1430,49.0,20.0,"dalian, liaoning, china",mandarin14,mandarin,male,719,china,False,224.80419921875
+1433,26.0,13.0,"wuhan, hubei, china",mandarin17,mandarin,male,796,china,False,147.61767578125
+1435,27.0,13.0,"qinzhou, guangxi, china",mandarin19,mandarin,male,916,china,False,251.5126953125
+1436,38.0,14.0,"nanjing, china",mandarin2,mandarin,female,257,china,False,227.25341796875
+1438,38.0,9.0,"chengdu, sichuan, china",mandarin21,mandarin,female,984,china,False,197.9765625
+1439,39.0,11.0,"haikou, hainan, china",mandarin22,mandarin,female,1019,china,False,106.08447265625
+1441,21.0,10.0,"shanghai, china",mandarin24,mandarin,female,1089,china,False,185.568359375
+1442,28.0,13.0,"wuxi, jiangsu, china",mandarin25,mandarin,female,1125,china,False,191.71484375
+1443,31.0,12.0,"emei, sichuan, china",mandarin26,mandarin,female,1141,china,False,82.36181640625
+1444,18.0,15.0,"chengdu, sichuan, china",mandarin27,mandarin,male,1154,china,False,181.8466796875
+1445,45.0,15.0,"shanghai, china",mandarin28,mandarin,male,1447,china,False,298.4189453125
+1446,24.0,4.0,"lanzhou, gansu, china",mandarin29,mandarin,male,1490,china,False,131.87353515625
+1447,43.0,10.0,"jilin city, jilin, china",mandarin3,mandarin,male,258,china,False,210.6455078125
+1449,26.0,13.0,"wenzhou, zhejiang, china",mandarin31,mandarin,female,1519,china,False,169.68359375
+1451,25.0,6.0,"beijing, china",mandarin33,mandarin,male,1541,china,False,81.8525390625
+1452,31.0,13.0,"shi jia zhuang, hebei, china",mandarin34,mandarin,female,1578,china,False,125.75390625
+1453,27.0,12.0,"yantai, shandong, china",mandarin35,mandarin,female,1579,china,False,138.69873046875
+1454,32.0,10.0,"beijing, china",mandarin36,mandarin,female,1580,china,False,298.47509765625
+1455,32.0,12.0,"huhot, nei meng gu, china",mandarin37,mandarin,female,1581,china,False,346.0302734375
+1456,33.0,12.0,"changsha, hunan, china",mandarin38,mandarin,female,1582,china,False,371.33740234375
+1457,24.0,12.0,"tie ling, liaoning, china",mandarin39,mandarin,female,1583,china,False,201.7275390625
+1458,24.0,6.0,"shanghai, china",mandarin4,mandarin,female,259,china,False,285.67236328125
+1459,28.0,12.0,"chengdu, sichuan, china",mandarin40,mandarin,male,1614,china,False,147.77685546875
+1460,34.0,13.0,"songyuan, jilin, china",mandarin41,mandarin,female,1615,china,False,261.03076171875
+1461,47.0,16.0,"yanbian, jilin, china",mandarin42,mandarin,female,1616,china,False,242.99267578125
+1462,24.0,15.0,"datong, shanxi, china",mandarin43,mandarin,female,1617,china,False,160.59716796875
+1463,21.0,16.0,"hangzhou, zhejiang, china",mandarin44,mandarin,male,1630,china,False,275.2890625
+1464,42.0,12.0,"beijing, china",mandarin45,mandarin,female,1631,china,False,351.51220703125
+1465,43.0,9.0,"jilin city, jilin, china",mandarin46,mandarin,female,1636,china,False,289.744140625
+1466,28.0,8.0,"beijing, china",mandarin47,mandarin,female,1644,china,False,241.67236328125
+1467,37.0,12.0,"pingdingshan, henan, china",mandarin48,mandarin,male,1645,china,False,148.14892578125
+1468,21.0,10.0,"shanghai, china",mandarin49,mandarin,male,1736,china,False,171.86376953125
+1469,31.0,12.0,"beijing, china",mandarin5,mandarin,female,260,china,False,287.033203125
+1471,25.0,10.0,"tianjin, hebei, china",mandarin51,mandarin,male,1792,china,False,166.22314453125
+1472,26.0,6.0,"shaoxing, zhejiang, china",mandarin52,mandarin,female,1793,china,False,196.59619140625
+1473,38.0,13.0,"ningbo, zhejiang, china",mandarin53,mandarin,female,1817,china,False,259.34765625
+1474,25.0,10.0,"chengdu, sichuan, china",mandarin54,mandarin,female,1900,china,False,201.1181640625
+1475,25.0,13.0,"loudi, hunan, china",mandarin55,mandarin,female,1909,china,False,291.31787109375
+1476,26.0,11.0,"baoding, hebei, china",mandarin56,mandarin,female,1910,china,False,167.84814453125
+1477,20.0,12.0,"shanghai, china",mandarin57,mandarin,male,1990,china,False,173.0517578125
+1478,23.0,7.0,"superior, colorado, usa",mandarin58,mandarin,male,2000,usa,False,167.77001953125
+1479,20.0,6.0,"kunming, yunnan, china",mandarin59,mandarin,female,2019,china,False,457.18701171875
+1480,28.0,12.0,"le shan, sichuan, china",mandarin6,mandarin,female,261,china,False,312.751953125
+1481,41.0,13.0,"guiyang, guizhou, china",mandarin60,mandarin,female,2109,china,False,140.50244140625
+1482,33.0,16.0,"shangrao, jiangxi, china",mandarin61,mandarin,female,2116,china,False,437.81396484375
+1483,24.0,7.0,"shanghai, china",mandarin62,mandarin,male,2117,china,False,96.49951171875
+1484,27.0,12.0,"jiaozuo, henan, china",mandarin63,mandarin,male,2119,china,False,223.19384765625
+1485,24.0,10.0,"fuzhou, fujian, china",mandarin64,mandarin,female,2129,china,False,386.0615234375
+1486,20.0,5.0,"tianjin, hebei, china",mandarin65,mandarin,female,2173,china,False,338.52587890625
+1487,22.0,5.0,"berkeley, california, usa",mandarin7,mandarin,male,262,usa,False,177.2060546875
+1488,29.0,12.0,"jingmen, hubei, china",mandarin8,mandarin,male,430,china,False,128.8388671875
+1489,38.0,12.0,"shanghai, china",mandarin9,mandarin,male,451,china,False,117.19091796875
+1493,21.0,3.0,"bombay, india",marathi1,marathi,female,264,india,False,143.474609375
+1494,28.0,10.0,"madras, india",marathi2,marathi,male,265,india,False,178.00244140625
+1495,31.0,2.0,"bombay, india",marathi3,marathi,male,837,india,False,172.7138671875
+1521,25.0,5.0,"jining, inner mongolia, china",mongolian8,mongolian,male,1842,china,False,172.6708984375
+1522,19.0,5.0,"yekaterinburg, russia",mongolian9,mongolian,male,1896,russia,False,146.0703125
+1527,24.0,12.0,"shangri-la, yunnan, china",naxi1,naxi,female,2164,china,False,256.400390625
+1552,35.0,5.0,"bargarh, orissa, india",oriya1,oriya,male,475,india,False,114.43017578125
+1553,32.0,6.0,"orissa, india",oriya2,oriya,male,1084,india,False,280.83056640625
+1554,33.0,11.0,"wellga, ethiopia",oromo1,oromo,female,275,ethiopia,False,79.0986328125
+1555,33.0,10.0,"yabello, burana, ethiopia",oromo2,oromo,male,1042,ethiopia,False,157.978515625
+1556,35.0,8.0,"dembi dollo, ethiopia",oromo3,oromo,female,1152,ethiopia,False,111.48779296875
+1570,26.0,23.0,"janow, poland",polish1,polish,female,277,poland,False,146.470703125
+1571,30.0,15.0,"wolanow, poland",polish10,polish,female,842,poland,False,196.64990234375
+1572,56.0,10.0,"warsaw, poland",polish11,polish,female,843,poland,False,91.24658203125
+1573,40.0,20.0,"warsaw, poland",polish12,polish,male,883,poland,False,142.03955078125
+1574,22.0,14.0,"gryfino, western pomerania, poland",polish13,polish,male,958,poland,False,158.85693359375
+1575,97.0,35.0,"warsaw, poland",polish14,polish,male,1171,poland,False,186.0595703125
+1576,25.0,9.0,"ketrzyn, poland",polish15,polish,female,1245,poland,False,136.18212890625
+1577,19.0,8.0,"koszalin, poland",polish16,polish,male,1278,poland,False,125.59814453125
+1578,33.0,13.0,"krakow, poland",polish17,polish,female,1453,poland,False,251.7802734375
+1579,18.0,5.0,"bialystok, poland",polish18,polish,male,1483,poland,False,123.46435546875
+1580,24.0,7.0,"belchatow, poland",polish19,polish,male,1549,poland,False,82.8251953125
+1581,26.0,25.0,"mielec, poland",polish2,polish,female,278,poland,False,277.76806640625
+1582,53.0,4.0,"gdansk, poland",polish20,polish,female,1625,poland,False,321.23291015625
+1583,30.0,10.0,"kolobrzeg, poland",polish21,polish,male,1651,poland,False,166.76318359375
+1584,19.0,11.0,"koszalin, poland",polish22,polish,male,1652,poland,False,371.65869140625
+1585,21.0,8.0,"lobez, poland",polish23,polish,male,1653,poland,False,103.17041015625
+1586,20.0,10.0,"koszalin, poland",polish24,polish,female,1654,poland,False,203.55908203125
+1587,20.0,11.0,"koszalin, poland",polish25,polish,male,1671,poland,False,146.88037109375
+1588,19.0,16.0,"bytow, poland",polish26,polish,male,1737,poland,False,268.578125
+1589,19.0,6.0,"koszalin, poland",polish27,polish,male,1738,poland,False,236.00927734375
+1590,20.0,10.0,"koszalin, poland",polish28,polish,female,1745,poland,False,179.72705078125
+1591,20.0,11.0,"sianow, poland",polish29,polish,male,1748,poland,False,253.30908203125
+1592,31.0,12.0,"nowy sacz, poland",polish3,polish,female,279,poland,False,172.138671875
+1593,21.0,9.0,"koszalin, poland",polish30,polish,female,1749,poland,False,386.46826171875
+1594,34.0,16.0,"trzebnica, poland",polish31,polish,female,1918,poland,False,265.7431640625
+1595,42.0,14.0,"torun, poland",polish32,polish,male,2062,poland,False,153.31884765625
+1596,21.0,7.0,"nowa ruda, poland",polish33,polish,male,2064,poland,False,109.7919921875
+1597,48.0,12.0,"wroclaw, poland",polish34,polish,female,2085,poland,False,302.748046875
+1598,47.0,15.0,"krakow, poland",polish4,polish,female,280,poland,False,143.84228515625
+1599,22.0,9.0,"ozarow maz, poland",polish5,polish,male,482,poland,False,107.220703125
+1600,26.0,8.0,"torun, poland",polish6,polish,female,626,poland,False,124.755859375
+1601,20.0,6.0,"przemet, poland",polish7,polish,male,728,poland,False,200.93212890625
+1602,20.0,11.0,"otwock, poland",polish8,polish,male,769,poland,False,140.6162109375
+1603,23.0,15.0,"ostroleka, poland",polish9,polish,female,841,poland,False,135.298828125
+1604,37.0,16.0,"bahia, brazil",portuguese1,portuguese,female,281,brazil,False,324.26318359375
+1605,21.0,13.0,"novo hamburgo, rio grande do sul, brazil",portuguese10,portuguese,male,282,brazil,False,345.3134765625
+1606,40.0,7.0,"sao paulo, brazil",portuguese11,portuguese,female,495,brazil,False,182.251953125
+1608,18.0,9.0,"santa maria, rio grande do sul, brazil",portuguese13,portuguese,male,520,brazil,False,129.7900390625
+1609,25.0,8.0,"sao paulo, brazil",portuguese14,portuguese,male,558,brazil,False,157.17138671875
+1610,54.0,9.0,"sao paulo, brazil",portuguese15,portuguese,male,615,brazil,False,178.08984375
+1611,25.0,15.0,"porto alegre, brazil",portuguese16,portuguese,male,632,brazil,False,167.18994140625
+1612,18.0,15.0,"salinas, brazil",portuguese17,portuguese,male,806,brazil,False,142.54833984375
+1614,32.0,4.0,"florianopolis, brazil",portuguese19,portuguese,male,829,brazil,False,42.73828125
+1615,18.0,10.0,"brasilia, brazil",portuguese2,portuguese,female,283,brazil,False,142.45849609375
+1616,21.0,10.0,"campinas, brazil",portuguese20,portuguese,male,833,brazil,False,195.4765625
+1617,23.0,17.0,"sao paulo, brazil",portuguese21,portuguese,male,891,brazil,False,77.6015625
+1619,29.0,10.0,"curitiba, brazil",portuguese23,portuguese,female,938,brazil,False,135.93798828125
+1620,22.0,11.0,"santos, brazil",portuguese24,portuguese,female,960,brazil,False,217.591796875
+1621,20.0,18.0,"rio de janeiro, brazil",portuguese25,portuguese,female,972,brazil,False,192.31005859375
+1622,25.0,10.0,"campo grande, brazil",portuguese26,portuguese,female,1109,brazil,False,105.9736328125
+1623,33.0,8.0,"sao paulo, brazil",portuguese27,portuguese,female,1128,brazil,False,170.0400390625
+1624,36.0,10.0,"sao paulo, brazil",portuguese28,portuguese,female,1187,brazil,False,161.7021484375
+1625,28.0,8.0,"vitoria, brazil",portuguese29,portuguese,male,1284,brazil,False,166.85693359375
+1626,18.0,15.0,"blumenau, brazil",portuguese3,portuguese,female,284,brazil,False,230.5439453125
+1627,26.0,24.0,"juiz de fora, brazil",portuguese30,portuguese,female,1285,brazil,False,114.71337890625
+1628,29.0,16.0,"belo horizonte, brazil",portuguese31,portuguese,male,1286,brazil,False,209.1845703125
+1629,29.0,12.0,"volta redonda, brazil",portuguese32,portuguese,male,1305,brazil,False,112.52978515625
+1630,38.0,28.0,"brasilia, brazil",portuguese33,portuguese,male,1316,brazil,False,158.11083984375
+1631,18.0,14.0,"porto alegre, brazil",portuguese34,portuguese,male,1376,brazil,False,74.94482421875
+1632,22.0,9.0,"sao paulo, brazil",portuguese35,portuguese,female,1389,brazil,False,121.234375
+1633,39.0,15.0,"uberlandia, brazil",portuguese36,portuguese,female,1438,brazil,False,367.76318359375
+1634,43.0,26.0,"sao paulo, brazil",portuguese37,portuguese,female,1454,brazil,False,104.50390625
+1635,25.0,15.0,"rio de janeiro, brazil",portuguese38,portuguese,male,1470,brazil,False,143.6005859375
+1636,26.0,8.0,"sao paulo, brazil",portuguese39,portuguese,female,1553,brazil,False,252.16552734375
+1638,23.0,0.0,"london, england, uk",portuguese40,portuguese,male,1773,uk,False,208.3701171875
+1641,32.0,8.0,"coronel fabriciano, minas gerais, brazil",portuguese43,portuguese,female,1922,brazil,False,114.2607421875
+1642,38.0,24.0,"rio de janeiro, brazil",portuguese44,portuguese,female,1930,brazil,False,116.24951171875
+1643,19.0,7.0,"salvador, brazil",portuguese45,portuguese,female,1941,brazil,False,182.19189453125
+1645,22.0,12.0,"rosario do sul, brazil",portuguese47,portuguese,female,1989,brazil,False,236.39892578125
+1646,31.0,26.0,"sao paulo, brazil",portuguese48,portuguese,male,2120,brazil,False,220.94677734375
+1648,44.0,15.0,"sao paulo, brazil",portuguese6,portuguese,male,287,brazil,False,121.81982421875
+1649,40.0,11.0,"vitoria, brazil",portuguese7,portuguese,male,288,brazil,False,210.85986328125
+1650,26.0,7.0,"fortaleza, brazil",portuguese8,portuguese,male,289,brazil,False,158.58642578125
+1651,18.0,14.0,"sao paulo, brazil",portuguese9,portuguese,male,290,brazil,False,111.73193359375
+1656,22.0,11.0,"ludhiana, india",punjabi10,punjabi,male,2040,india,False,272.384765625
+1657,26.0,10.0,"hoshiarpur, india",punjabi2,punjabi,male,292,india,False,93.43115234375
+1658,19.0,6.0,"moga, punjab, india",punjabi3,punjabi,male,751,india,False,103.548828125
+1659,33.0,3.0,"moga, india",punjabi4,punjabi,female,836,india,False,207.1337890625
+1660,49.0,5.0,"ropar, punjab, india",punjabi5,punjabi,male,1612,india,False,550.400390625
+1663,44.0,13.0,"jilandhar, punjab, india",punjabi8,punjabi,male,1782,india,False,182.12744140625
+1664,19.0,11.0,"kot kapura, india",punjabi9,punjabi,male,2039,india,False,380.63720703125
+1690,37.0,36.0,"nizhni novgorod, russia",russian1,russian,male,299,russia,False,207.6748046875
+1691,20.0,5.0,"moscow, russia",russian10,russian,female,300,russia,False,69.91845703125
+1692,54.0,13.0,"ola magadan, russia",russian11,russian,male,301,russia,False,151.13525390625
+1693,62.0,53.0,"st. petersburg, russia",russian12,russian,male,460,russia,False,221.6396484375
+1694,26.0,10.0,"moscow, russia",russian13,russian,male,472,russia,False,66.7587890625
+1695,33.0,18.0,"pskov, russia",russian14,russian,male,609,russia,False,149.85595703125
+1698,37.0,18.0,"pskov, russia",russian17,russian,male,671,russia,False,127.69189453125
+1699,23.0,13.0,"komsomolsk-on-amur, russia",russian18,russian,male,831,russia,False,106.64111328125
+1703,46.0,10.0,"moscow, russia",russian21,russian,female,954,russia,False,120.0068359375
+1706,33.0,19.0,"sochi, russia",russian24,russian,female,1073,russia,False,257.27783203125
+1709,21.0,14.0,"moscow, russia",russian27,russian,male,1191,russia,False,193.625
+1713,18.0,12.0,"stavropol, russia",russian30,russian,male,1279,russia,False,122.1708984375
+1717,19.0,15.0,"vladivostok, russia",russian34,russian,male,1407,russia,False,189.55322265625
+1718,27.0,16.0,"dresden, germany",russian35,russian,male,1467,germany,False,402.0751953125
+1719,25.0,20.0,"moscow, russia",russian36,russian,male,1518,russia,False,308.49462890625
+1720,31.0,10.0,"st. petersburg, russia",russian37,russian,male,1523,russia,False,120.18017578125
+1722,25.0,5.0,"brooklyn, new york, usa",russian39,russian,female,1750,usa,False,209.43701171875
+1723,68.0,38.0,"moscow, russia",russian4,russian,female,304,russia,False,451.93408203125
+1725,30.0,10.0,"nizhni novgorod, russia",russian41,russian,female,1844,russia,False,206.64306640625
+1726,24.0,4.0,"moscow, russia",russian42,russian,female,1924,russia,False,206.751953125
+1727,27.0,8.0,"st. petersburg, russia",russian43,russian,female,1932,russia,False,226.4501953125
+1728,29.0,6.0,"penza, russia",russian44,russian,female,1947,russia,False,118.91748046875
+1729,68.0,14.0,"st. petersburg, russia",russian45,russian,female,2027,russia,False,223.5224609375
+1730,24.0,7.0,"perm, russia",russian46,russian,female,2105,russia,False,217.50634765625
+1731,26.0,6.0,"saransk, russia",russian47,russian,female,2107,russia,False,171.9072265625
+1733,25.0,15.0,"khabarovsk, russia",russian5,russian,female,305,russia,False,212.5087890625
+1734,26.0,11.0,"moscow, russia",russian6,russian,female,306,russia,False,282.7548828125
+1736,66.0,12.0,"moscow, russia",russian8,russian,male,308,russia,False,378.2333984375
+1737,23.0,7.0,"moscow, russia",russian9,russian,male,309,russia,False,35.16845703125
+1917,20.0,5.0,"miami, florida, usa",spanish72,spanish,female,1238,usa,False,302.0771484375
+1982,21.0,6.0,"alexandria, virginia, usa",tagalog17,tagalog,male,2146,usa,False,215.81298828125
+1992,21.0,7.0,"taishan, guangdong, china",taishan1,taishan,male,362,china,False,326.30859375
+2005,35.0,4.0,"madras, tamil nadu, india",tamil2,tamil,female,429,india,False,98.13623046875
+2006,26.0,10.0,"chennai, india",tamil3,tamil,male,531,india,False,122.08740234375
+2008,36.0,5.0,"coimbatore, tamil nadu, india",tamil5,tamil,female,1723,india,False,97.2646484375
+2009,47.0,6.0,"bangalore, karnataka, india",tamil6,tamil,female,2076,india,False,180.98974609375
+2010,29.0,10.0,"kargali, tatarstan, russia",tatar1,tatar,female,368,russia,False,145.54052734375
+2011,31.0,6.0,"kadapa, india",telugu1,telugu,male,369,india,False,164.94287109375
+2012,18.0,6.0,"guntur, andhra pradesh, india",telugu2,telugu,male,370,india,False,223.03955078125
+2014,59.0,8.0,"guangdong province, guangdong, china",teochew1,teochew,female,569,china,False,161.91796875
+2032,20.0,7.0,"mysore, india",tibetan3,tibetan,female,376,india,False,341.228515625
+2033,25.0,17.0,"adigrat, ethiopia",tigrigna1,tigrigna,female,377,ethiopia,False,175.6845703125
+2038,58.0,15.0,"adigrat, ethiopia",tigrigna6,tigrigna,female,1151,ethiopia,False,106.701171875
+2043,27.0,26.0,"bingol, turkey",turkish1,turkish,female,381,turkey,False,247.6064453125
+2044,27.0,11.0,"ankara, turkey",turkish10,turkish,male,578,turkey,False,104.51513671875
+2045,24.0,23.0,"kocaeli, turkey",turkish11,turkish,female,634,turkey,False,149.14794921875
+2046,25.0,20.0,"giresun, turkey",turkish12,turkish,male,672,turkey,False,169.65673828125
+2047,18.0,3.0,"istanbul, turkey",turkish13,turkish,female,686,turkey,False,104.1923828125
+2048,23.0,6.0,"istanbul, turkey",turkish14,turkish,female,735,turkey,False,203.96142578125
+2049,18.0,10.0,"ankara, turkey",turkish15,turkish,male,736,turkey,False,151.9853515625
+2050,25.0,12.0,"kars, turkey",turkish16,turkish,male,745,turkey,False,292.400390625
+2051,31.0,6.0,"ankara, turkey",turkish17,turkish,male,763,turkey,False,76.45361328125
+2052,27.0,9.0,"stuttgart, germany",turkish18,turkish,male,926,germany,False,143.4482421875
+2053,25.0,18.0,"istanbul, turkey",turkish19,turkish,male,971,turkey,False,129.43994140625
+2054,24.0,16.0,"ankara, turkey",turkish2,turkish,male,382,turkey,False,150.4169921875
+2055,19.0,9.0,"kocaeli, turkey",turkish20,turkish,female,1144,turkey,False,94.71484375
+2056,18.0,4.0,"istanbul, turkey",turkish21,turkish,female,1210,turkey,False,174.76416015625
+2057,23.0,6.0,"istanbul, turkey",turkish22,turkish,male,1282,turkey,False,95.6845703125
+2058,37.0,11.0,"adana, turkey",turkish23,turkish,female,1291,turkey,False,245.283203125
+2059,31.0,12.0,"istanbul, turkey",turkish24,turkish,male,1329,turkey,False,205.4599609375
+2060,32.0,26.0,"kars, turkey",turkish25,turkish,male,1570,turkey,False,153.9912109375
+2061,45.0,22.0,"sivas, turkey",turkish26,turkish,male,1704,turkey,False,285.6396484375
+2062,18.0,7.0,"istanbul, turkey",turkish27,turkish,female,1730,turkey,False,318.7197265625
+2063,24.0,4.0,"istanbul, turkey",turkish28,turkish,female,1772,turkey,False,131.55126953125
+2064,21.0,11.0,"ankara, turkey",turkish29,turkish,female,1808,turkey,False,133.74853515625
+2065,27.0,12.0,"adana, turkey",turkish3,turkish,male,383,turkey,False,156.15234375
+2066,24.0,11.0,"izmir, turkey",turkish30,turkish,female,1929,turkey,False,181.3232421875
+2067,24.0,11.0,"diyarbakir, turkey",turkish31,turkish,male,2032,turkey,False,361.59326171875
+2068,24.0,11.0,"diyarbakir, turkey",turkish32,turkish,male,2033,turkey,False,341.81494140625
+2069,24.0,11.0,"diyarbakir, turkey",turkish33,turkish,male,2034,turkey,False,304.853515625
+2070,24.0,11.0,"diyarbakir, turkey",turkish34,turkish,male,2035,turkey,False,200.78662109375
+2071,24.0,11.0,"izmir, turkey",turkish35,turkish,female,2048,turkey,False,319.52734375
+2072,26.0,12.0,"istanbul, turkey",turkish36,turkish,female,2168,turkey,False,216.81640625
+2074,20.0,14.0,"kayseri, turkey",turkish4,turkish,male,384,turkey,False,103.6220703125
+2075,30.0,11.0,"istanbul, turkey",turkish5,turkish,female,385,turkey,False,178.79345703125
+2076,19.0,14.0,"istanbul, turkey",turkish6,turkish,male,386,turkey,False,111.4013671875
+2077,19.0,13.0,"izmir, turkey",turkish7,turkish,male,387,turkey,False,199.41259765625
+2078,37.0,17.0,"sivas, turkey",turkish8,turkish,male,478,turkey,False,188.10986328125
+2079,25.0,11.0,"istanbul, turkey",turkish9,turkish,male,532,turkey,False,61.53369140625
+2084,19.0,5.0,"woodbridge, virginia, usa",twi5,twi,male,2001,usa,False,184.79638671875
+2109,24.0,3.0,"bangalore, india",urdu6,urdu,female,1014,india,False,106.28173828125
+2112,20.0,5.0,"alexandria, virginia, usa",urdu9,urdu,female,1539,usa,False,114.99365234375
+2113,46.0,45.0,"urumqi, xin jiang, china",uyghur1,uyghur,female,392,china,False,351.998046875
+2114,34.0,32.0,"kashgar, china",uyghur2,uyghur,female,826,china,False,236.099609375
+2115,49.0,29.0,"urumqi, xin jiang, china",uyghur3,uyghur,female,1703,china,False,314.33056640625
+2142,24.0,7.0,"tervuren, belgium",vlaams1,vlaams,male,819,belgium,False,120.98779296875
+2143,21.0,14.0,"turnhout, belgium",vlaams2,vlaams,female,1472,belgium,False,255.2822265625
+2144,22.0,14.0,"herentals, belgium",vlaams3,vlaams,female,1478,belgium,False,179.22900390625
+2145,50.0,12.0,"ronse, belgium",vlaams4,vlaams,female,1638,belgium,False,477.00146484375
+2152,30.0,12.0,"taizhou, zhejiang, china",wu1,wu,female,1646,china,False,169.68017578125
+2155,30.0,12.0,"changsha, hunan, china",xiang2,xiang,male,1417,china,False,212.11962890625
+2156,36.0,13.0,"changsha, hunan, china",xiang3,xiang,male,1522,china,False,187.31591796875
+2157,23.0,10.0,"zhuzhou, hunan, china",xiang4,xiang,female,2163,china,False,206.517578125
+2158,19.0,13.0,"yakutsk, russia",yakut1,yakut,female,1252,russia,False,108.8701171875
+2161,78.0,6.0,"winnipeg, manitoba, canada",yiddish2,yiddish,female,405,canada,False,151.70751953125
+2162,52.0,5.0,"brooklyn, new york, usa",yiddish3,yiddish,male,1161,usa,False,104.7138671875
+2170,31.0,1.0,"bethel, alaska, usa",yupik1,yupik,female,571,usa,False,98.6552734375
